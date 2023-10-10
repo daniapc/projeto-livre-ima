@@ -7,6 +7,7 @@ Trabalho para a disciplina de Introdução à Modelagem e Aprendizado ofertada e
 
 ## Como instalar
 Executar os seguintes comandos no terminal: 
-<br> ` cd ./src/ `
-<br> ` pip install -r requirements.txt` 
+<br> ``` git clone https://github.com/daniapc/projeto-livre-ima.git ```
+<br> ``` cd ./projeto-livre-ima/src/ ```
+<br> ``` pip install -r requirements.txt ``` 
 
