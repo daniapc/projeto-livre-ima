@@ -14,7 +14,7 @@ def get_cookiefile():
     default_cookiefile = {
         "Windows": "~/AppData/Roaming/Mozilla/Firefox/Profiles/*/cookies.sqlite",
         "Darwin": "~/Library/Application Support/Firefox/Profiles/*/cookies.sqlite",
-    }.get(system(), "~/snap/firefox/common/.mozilla/firefox/*/cookies.sqlite")
+    }.get(system(), "~/.mozilla/firefox/*/cookies.sqlite")
     cookiefiles = glob(expanduser(default_cookiefile))
     if not cookiefiles:
         raise SystemExit("No Firefox cookies.sqlite file found. Use -c COOKIEFILE.")
@@ -51,4 +51,3 @@ if __name__ == "__main__":
         import_session(args.cookiefile or get_cookiefile(), args.sessionfile)
     except (ConnectionException, OperationalError) as e:
         raise SystemExit("Cookie import failed: {}".format(e))
-

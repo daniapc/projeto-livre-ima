@@ -7,7 +7,7 @@ class InstaloaderService:
     def print_hello(self):
         print(self.hello)
 
-    def make_verification():
+    def make_verification(self, used_account, target_account):
         loader = instaloader.Instaloader()
 
         loader.load_session_from_file("ladien.cup")
@@ -25,3 +25,14 @@ class InstaloaderService:
                 non_mutuals.remove(person)
 
         print(*non_mutuals, sep='\n')
+
+    def get_followers_list(self, used_account, target_account):
+        loader = instaloader.Instaloader()
+
+        loader.load_session_from_file(used_account)
+
+        profile = instaloader.Profile.from_username(loader.context, target_account)
+
+        followers = [follower.username for follower in profile.get_followers()]
+
+        return followers
