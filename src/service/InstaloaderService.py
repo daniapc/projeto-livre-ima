@@ -1,18 +1,18 @@
 import instaloader
 
 class InstaloaderService:
-    def __init__(self):
+    def __init__(self, used_account):
         self.hello = "Hello instaloader!"
+        self.loader = instaloader.Instaloader()
+        self.loader.load_session_from_file(used_account)
 
     def print_hello(self):
         print(self.hello)
 
-    def make_verification(self, used_account, target_account):
-        loader = instaloader.Instaloader()
+    def make_verification(self, target_account):
+        loader = self.loader
 
-        loader.load_session_from_file("ladien.cup")
-
-        profile = instaloader.Profile.from_username(loader.context,'dani.apc')
+        profile = instaloader.Profile.from_username(loader.context,target_account)
 
         followers = [follower.username for follower in profile.get_followers()]
 
@@ -26,13 +26,33 @@ class InstaloaderService:
 
         print(*non_mutuals, sep='\n')
 
-    def get_followers_list(self, used_account, target_account):
+    def get_followers_list(self, target_account):
         loader = instaloader.Instaloader()
 
-        loader.load_session_from_file(used_account)
+        # loader.load_session_from_file(used_account)
 
         profile = instaloader.Profile.from_username(loader.context, target_account)
 
         followers = [follower.username for follower in profile.get_followers()]
 
         return followers
+    
+    def get_profile_data(self, target_account):
+        loader = self.loader
+
+        profile = instaloader.Profile.from_username(loader.context, target_account)
+        status = ""
+        following_list = []
+
+        if profile.is_private:
+            status = "Private"
+        elif profile.followees > 2000:
+            status = "Invalid"
+        else:
+            try:
+                following_list = [followee.username for followee in profile.get_followees()]
+                status = "True"
+            except:
+                status = "False"
+    
+        return status, following_list
