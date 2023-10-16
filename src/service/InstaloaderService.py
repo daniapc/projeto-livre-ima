@@ -40,7 +40,14 @@ class InstaloaderService:
     def get_profile_data(self, target_account):
         loader = self.loader
 
-        profile = instaloader.Profile.from_username(loader.context, target_account)
+        try: 
+            profile = instaloader.Profile.from_username(loader.context, target_account)
+        except Exception as ex:
+            excpetion_string = str(ex)
+            print(excpetion_string)
+            if ("does not exist" in excpetion_string):
+                return "Deleted", []
+
         status = ""
         following_list = []
 
@@ -54,5 +61,6 @@ class InstaloaderService:
                 status = "True"
             except:
                 status = "False"
-    
+        
+
         return status, following_list
