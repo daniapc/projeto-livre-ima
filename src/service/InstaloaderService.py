@@ -48,7 +48,7 @@ class InstaloaderService:
             if ("does not exist" in excpetion_string):
                 return "Deleted", []
 
-        status = ""
+        status = "False"
         following_list = []
 
         if profile.is_private:
@@ -59,8 +59,11 @@ class InstaloaderService:
             try:
                 following_list = [followee.username for followee in profile.get_followees()]
                 status = "True"
-            except:
-                status = "False"
+            except Exception as ex:
+                excpetion_string = str(ex)
+                print(excpetion_string)
+                if ("error code 401" in excpetion_string):
+                    status = "Error"
         
         return status, following_list
 
