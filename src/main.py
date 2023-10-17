@@ -15,7 +15,7 @@ if __name__ == "__main__":
     pandas_service = PandasService()
     pandas_service.print_hello()
 
-    path = os.getcwd() + '/src/service/data_files/followers.csv'
+    path = os.getcwd() + '/data_files/followers.csv'
     # pandas_service.save_followers_list_csv(followers_list, path)
     
     pandas_service.get_following_list(instaloader_service, path)
