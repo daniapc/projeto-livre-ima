@@ -1,9 +1,6 @@
 import pandas as pd
-import time
-import datetime
-import random
 
-from service.InstaloaderService import InstaloaderService
+# from service.InstaloaderService import InstaloaderService
 from service.TimeService import TimeService
 
 class PandasService:
@@ -44,17 +41,23 @@ class PandasService:
         lines = df.values.tolist()
         updated_lines = lines.copy()
 
-        last_time = time_service.get_current_time_in_minutes()
-        random_value = time_service.get_random_values(3, 5)
+        # last_time = time_service.get_current_time_in_minutes()
+        # random_value = time_service.get_random_values(3, 5)
 
+        control = 0
+        change = time_service.get_random_values(5, 10)
         for element in lines:
             visited = str(element[2])
-            index = lines.index(element)
+            index = lines.index(element)  
         
             if visited == "False":
+                if control >= change:
+                    control = 0
+                    change = time_service.get_random_values(5, 10)
+                    instaloader_service.change_session()
+
                 user = element[1]
                 status, following_list = instaloader_service.get_profile_data(user)
-                # private, n_following = 
                 updated_lines[index][2] = status
 
                 if status == "True":
@@ -64,15 +67,11 @@ class PandasService:
                 self.update_df(updated_lines, columns, path)
                 print(str(index) + ": " + user)
 
-                current_time = time_service.get_current_time_in_minutes()
-                if current_time - last_time >= random_value:
-                    sleep_time = time_service.get_random_values(60, 180)
-                    print("Dormindo por " + str(sleep_time) + " segundos.")
-                    time_service.sleep_in_seconds(sleep_time)
-                    
-                    last_time = time_service.get_current_time_in_minutes()
-                    random_value = time_service.get_random_values(3, 5)
-                return lines
+                sleep_time = time_service.get_random_values(10, 30)
+                print("Dormindo por " + str(sleep_time) + " segundos.")
+                time_service.sleep_in_seconds(sleep_time)
+
+                control = control + 1
 
         return lines
 

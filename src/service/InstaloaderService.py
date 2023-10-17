@@ -62,5 +62,12 @@ class InstaloaderService:
             except:
                 status = "False"
         
-
         return status, following_list
+
+    def change_session(self):
+        current_account = self.loader.context.username
+
+        if current_account == "aladas.cwb":
+            self.loader.load_session_from_file("ladien.cup")
+        else:
+            self.loader.load_session_from_file("aladas.cwb")

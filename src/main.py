@@ -4,7 +4,7 @@ from service.PandasService import PandasService
 import os
 
 if __name__ == "__main__":
-    instaloader_service = InstaloaderService("ladien.cup")
+    instaloader_service = InstaloaderService("aladas.cwb")
     instaloader_service.print_hello()
 
     # followers_list = instaloader_service.get_followers_list("ladien.cup", "utfpr.curitiba")
