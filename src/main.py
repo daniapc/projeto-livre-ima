@@ -4,7 +4,7 @@ from service.PandasService import PandasService
 import os
 
 if __name__ == "__main__":
-    instaloader_service = InstaloaderService("aladas.cwb")
+    instaloader_service = InstaloaderService("umanosemlixo.seminar")
     # instaloader_service = InstaloaderService("ladien.cup")
     instaloader_service.print_hello()
 

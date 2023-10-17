@@ -45,16 +45,18 @@ class PandasService:
         # random_value = time_service.get_random_values(3, 5)
 
         control = 0
-        change = time_service.get_random_values(5, 10)
-        for element in lines:
+        # for element in lines:
+        while (1):
+            random = time_service.get_random_values(1200, 12400)
+            element = lines[random]
             visited = str(element[2])
             index = lines.index(element)  
         
             if visited == "False":
-                if control >= change:
-                    control = 0
-                    change = time_service.get_random_values(5, 10)
-                    instaloader_service.change_session()
+                # instaloader_service.change_session()
+                # if control >= change:
+                #     control = 0
+                #     change = time_service.get_random_values(5, 10)
 
                 user = element[1]
                 status, following_list = instaloader_service.get_profile_data(user)
@@ -67,11 +69,13 @@ class PandasService:
                 self.update_df(updated_lines, columns, path)
                 print(str(index) + ": " + user)
 
-                sleep_time = time_service.get_random_values(15, 30)
+                sleep_time = time_service.get_random_values(30, 600)
                 print("Dormindo por " + str(sleep_time) + " segundos.")
                 time_service.sleep_in_seconds(sleep_time)
 
                 control = control + 1
+
+                # return lines
 
         return lines
 
