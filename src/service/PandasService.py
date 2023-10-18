@@ -32,6 +32,11 @@ class PandasService:
         # saving the dataframe
         df.to_csv(path, index=False)
         
+    def get_df_size(self, path):
+        df = pd.read_csv(path)
+        lines = df.values.tolist()
+        return len(lines)
+
     def get_following_list(self, instaloader_service, path):
         time_service = TimeService()
         time_service.print_hello()

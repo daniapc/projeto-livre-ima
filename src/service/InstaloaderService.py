@@ -1,10 +1,11 @@
 import instaloader
 
 class InstaloaderService:
-    def __init__(self, used_account):
+    def __init__(self, used_account, used_password):
         self.hello = "Hello instaloader!"
         self.loader = instaloader.Instaloader()
-        self.loader.load_session_from_file(used_account)
+        self.loader.login(used_account, used_password)
+        # self.loader.load_session_from_file(used_account)
 
     def print_hello(self):
         print(self.hello)
@@ -67,10 +68,5 @@ class InstaloaderService:
         
         return status, following_list
 
-    def change_session(self):
-        current_account = self.loader.context.username
-
-        if current_account == "aladas.cwb":
-            self.loader.load_session_from_file("ladien.cup")
-        else:
-            self.loader.load_session_from_file("aladas.cwb")
+    def recreate_session(self, used_account, used_password):
+        self.loader.login(used_account, used_password)
