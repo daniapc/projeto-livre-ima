@@ -25,12 +25,13 @@ if __name__ == "__main__":
     # pandas_service.save_followers_list_csv(followers_list, path)
     size = pandas_service.get_df_size(path)
     
-    for index in range(size):
-        try:
-            pandas_service.get_following_list(instaloader_service, path)
-        except:
-            TimeService.sleep_in_seconds(None, 900)
-            instaloader_service.recreate_session(used_account, used_password)
+    # for index in range(size):
+    #     try:
+    pandas_service.get_following_list(instaloader_service, path)
+        # except:
+        #     TimeService.sleep_in_seconds(None, 900)
+        #     print("Dormindo por 15 minutos.")
+        #     instaloader_service.recreate_session(used_account, used_password)
 
     mlxtend_service = MlxtendService()
     mlxtend_service.print_hello()

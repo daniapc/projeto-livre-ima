@@ -66,7 +66,7 @@ class PandasService:
                 self.update_df(updated_lines, columns, path)
                 print(str(index) + ": " + user)
 
-                sleep_time = time_service.get_random_values(30, 600)
+                sleep_time = time_service.get_random_values(10, 60)
                 print("Dormindo por " + str(sleep_time) + " segundos.")
                 time_service.sleep_in_seconds(sleep_time)
 
