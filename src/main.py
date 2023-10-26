@@ -34,3 +34,6 @@ if __name__ == "__main__":
 
     mlxtend_service = MlxtendService()
     mlxtend_service.print_hello()
+
+    from service.TimeService import TimeService
+    TimeService.notifica_erro("Programa acabou")

@@ -66,6 +66,8 @@ class InstaloaderService:
                 excpetion_string = str(ex)
                 print(excpetion_string)
                 if ("error code 401" in excpetion_string):
+                    from service.TimeService import TimeService
+                    TimeService.notifica_erro(excpetion_string)
                     exit()
         
         return status, following_list

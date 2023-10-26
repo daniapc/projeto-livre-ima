@@ -1,6 +1,7 @@
 import time
 import datetime
 import random
+from plyer import notification
 
 class TimeService:
     def __init__(self):
@@ -17,3 +18,9 @@ class TimeService:
     
     def sleep_in_seconds(self, time_in_seconds):
         time.sleep(time_in_seconds)
+
+    def notifica_erro(mensagem):
+        notification.notify(
+            title = "Processo finalizado:",
+            message = mensagem,
+        )
