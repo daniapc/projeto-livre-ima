@@ -27,7 +27,7 @@ if __name__ == "__main__":
     
     pandas_service.clean_followers(path)
     # followers_list = pandas_service.get_df_to_list(path)
-    # data_list = pandas_service.get_df_to_list(os.getcwd() + '/data_files/each_following/zelipka.csv')
+    data_list = pandas_service.get_df_to_list(os.getcwd() + '/data_files/each_following/ulas_no_insta.csv')
 
     # pandas_service.get_following_list(instaloader_service, path)
 

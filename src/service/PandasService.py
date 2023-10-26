@@ -39,6 +39,8 @@ class PandasService:
         return len(lines)
     
     def get_df_to_list(self, path):
+        if not os.path.isfile(path):
+            return None
         df = pd.read_csv(path)
         lines = df.values.tolist()
         return lines
@@ -85,13 +87,13 @@ class PandasService:
             visited = str(element[2])
             index = lines.index(element)  
 
-            if visited == "True":
-                user = element[1]
-                following_path = path.replace("followers.csv", "each_following/") + user + ".csv"
-                following_list = self.get_df_to_list(following_path)
-                if len(following_list) == 0:
-                    self.update_df(updated_lines, columns, path)
-                    os.remove(following_path)
+            # if visited == "True":
+            user = element[1]
+            following_path = path.replace("followers.csv", "each_following/") + user + ".csv"
+            following_list = self.get_df_to_list(following_path)
+            if following_list != None and len(following_list) == 0:
+                self.update_df(updated_lines, columns, path)
+                os.remove(following_path)
 
-                    updated_lines[index][2] = "False"
-                    self.update_df(updated_lines, columns, path)
+                updated_lines[index][2] = "False"
+                self.update_df(updated_lines, columns, path)
