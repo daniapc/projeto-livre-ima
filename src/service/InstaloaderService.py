@@ -4,8 +4,8 @@ class InstaloaderService:
     def __init__(self, used_account, used_password):
         self.hello = "Hello instaloader!"
         self.loader = instaloader.Instaloader()
-        self.loader.login(used_account, used_password)
-        # self.loader.load_session_from_file(used_account)
+        # self.loader.login(used_account, used_password)
+        self.loader.load_session_from_file(used_account)
 
     def print_hello(self):
         print(self.hello)
@@ -56,6 +56,8 @@ class InstaloaderService:
             status = "Private"
         elif profile.followees > 2000:
             status = "Invalid"
+        # elif profile.followees > 500:
+        #     status = "False"
         else:
             try:
                 following_list = [followee.username for followee in profile.get_followees()]
@@ -64,7 +66,7 @@ class InstaloaderService:
                 excpetion_string = str(ex)
                 print(excpetion_string)
                 if ("error code 401" in excpetion_string):
-                    status = "Error"
+                    exit()
         
         return status, following_list
 

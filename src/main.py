@@ -2,17 +2,18 @@ from service.InstaloaderService import InstaloaderService
 from service.MlxtendService import MlxtendService
 from service.PandasService import PandasService
 
-from service.TimeService import TimeService
-
 import sys
 import os
 
 if __name__ == "__main__":
-    # used_account = sys.argv[1] if len(sys.argv) > 1 else "umanosemlixo.seminar"
-    # used_password = sys.argv[2] if len(sys.argv) > 2 else ""
+    if len(sys.argv) <= 2:
+        exit()
 
-    # instaloader_service = InstaloaderService(used_account, used_password)
-    # instaloader_service.print_hello()
+    used_account = sys.argv[1]
+    used_password = sys.argv[2]
+
+    instaloader_service = InstaloaderService(used_account, used_password)
+    instaloader_service.print_hello()
 
     # followers_list = instaloader_service.get_followers_list(used_account, "utfpr.curitiba")
 
@@ -27,9 +28,9 @@ if __name__ == "__main__":
     
     pandas_service.clean_followers(path)
     # followers_list = pandas_service.get_df_to_list(path)
-    data_list = pandas_service.get_df_to_list(os.getcwd() + '/data_files/each_following/ulas_no_insta.csv')
+    # data_list = pandas_service.get_df_to_list(os.getcwd() + '/data_files/each_following/ulas_no_insta.csv')
 
-    # pandas_service.get_following_list(instaloader_service, path)
+    pandas_service.get_following_list(instaloader_service, path)
 
     mlxtend_service = MlxtendService()
     mlxtend_service.print_hello()

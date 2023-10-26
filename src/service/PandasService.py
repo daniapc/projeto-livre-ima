@@ -55,8 +55,8 @@ class PandasService:
 
         following_size = len(lines)
 
-        for item in range(following_size):
-            random = time_service.get_random_values(1200, 12484)
+        for iterator in range(following_size):
+            random = time_service.get_random_values(0, 12484)
             element = lines[random]
             visited = str(element[2])
             index = lines.index(element)  
@@ -71,7 +71,7 @@ class PandasService:
                     self.update_df(following_list, ['names'], following_path)
 
                 self.update_df(updated_lines, columns, path)
-                print(str(index) + ": " + user)
+                print(str(index) + ": " + user + " - " + status)
 
         return lines
     
