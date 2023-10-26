@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 # from service.InstaloaderService import InstaloaderService
 from service.TimeService import TimeService
@@ -31,15 +32,19 @@ class PandasService:
 
         # saving the dataframe
         df.to_csv(path, index=False)
-        
+
     def get_df_size(self, path):
         df = pd.read_csv(path)
         lines = df.values.tolist()
         return len(lines)
+    
+    def get_df_to_list(self, path):
+        df = pd.read_csv(path)
+        lines = df.values.tolist()
+        return lines
 
     def get_following_list(self, instaloader_service, path):
         time_service = TimeService()
-        time_service.print_hello()
         df = pd.read_csv(path)
         
         columns = df.columns.tolist()
@@ -66,9 +71,27 @@ class PandasService:
                 self.update_df(updated_lines, columns, path)
                 print(str(index) + ": " + user)
 
-                sleep_time = time_service.get_random_values(10, 60)
-                print("Dormindo por " + str(sleep_time) + " segundos.")
-                time_service.sleep_in_seconds(sleep_time)
-
         return lines
+    
+    # Quando dá algum erro em que a lista é salva vazia, chama a função de limpeza
+    def clean_followers(self, path):
+        df = pd.read_csv(path)
+        
+        columns = df.columns.tolist()
+        lines = df.values.tolist()
+        updated_lines = lines.copy()
 
+        for element in lines:
+            visited = str(element[2])
+            index = lines.index(element)  
+
+            if visited == "True":
+                user = element[1]
+                following_path = path.replace("followers.csv", "each_following/") + user + ".csv"
+                following_list = self.get_df_to_list(following_path)
+                if len(following_list) == 0:
+                    self.update_df(updated_lines, columns, path)
+                    os.remove(following_path)
+
+                    updated_lines[index][2] = "False"
+                    self.update_df(updated_lines, columns, path)
