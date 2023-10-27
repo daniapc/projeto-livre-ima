@@ -883,7 +883,7 @@ Unnamed: 0,follower,visited
 881,mandi.pesch,Private
 882,deboratazinasso,False
 883,vallyoficial,Private
-884,anazanatta_13,False
+884,anazanatta_13,True
 885,sandrariceto_,False
 886,serathiuk,False
 887,ciencia_brasil,Invalid
@@ -1004,7 +1004,7 @@ Unnamed: 0,follower,visited
 1002,mdmarkcomunicacao,False
 1003,mandi__az,False
 1004,lucasg_carvalho,Private
-1005,tramontini.luiz,False
+1005,tramontini.luiz,True
 1006,fredtecchio,False
 1007,_muryloh,False
 1008,fe_zamp,Private
@@ -1178,7 +1178,7 @@ Unnamed: 0,follower,visited
 1176,elooko_thaay,Invalid
 1177,tulinho_02,Private
 1178,lourdes.parise,Private
-1179,marcosbolzon,False
+1179,marcosbolzon,True
 1180,nuem.utfpr,False
 1181,luna_preto,False
 1182,leiacristina.bauermann,Private
@@ -1231,7 +1231,7 @@ Unnamed: 0,follower,visited
 1229,pettersonpontes,False
 1230,thaisgabrielest,False
 1231,bloxlab,False
-1232,llaisramos,False
+1232,llaisramos,Private
 1233,patriciaphreitas,False
 1234,vieira.gislaine_,Private
 1235,ibfontoura,False
@@ -1277,11 +1277,11 @@ Unnamed: 0,follower,visited
 1275,aimeepucci_,False
 1276,stella.salache,False
 1277,pedrohbc1103,False
-1278,me.luko,False
+1278,me.luko,True
 1279,bruh_tesch,False
 1280,sandrabobbo,False
 1281,tu.freitas.2005,False
-1282,kellenrozinde,False
+1282,kellenrozinde,Private
 1283,joaop__sales,False
 1284,tainapppv,False
 1285,fer.simioni,False
@@ -1293,7 +1293,7 @@ Unnamed: 0,follower,visited
 1291,lohmann_gabriel,False
 1292,elenisegoulart,False
 1293,mel_mozer,False
-1294,andrea.arosi201999,False
+1294,andrea.arosi201999,Private
 1295,ademar3572,True
 1296,dri_kosloski,True
 1297,sara_rodrigues_,False
@@ -1317,7 +1317,7 @@ Unnamed: 0,follower,visited
 1315,vinicius_laskoski,False
 1316,caah_bueno_25,False
 1317,brunolima19_,False
-1318,thalyson.rf,False
+1318,thalyson.rf,True
 1319,guilherme.b.d_,False
 1320,rafasouti,False
 1321,julianekbauer,False
@@ -1347,8 +1347,8 @@ Unnamed: 0,follower,visited
 1345,rafaeldetarso,Invalid
 1346,deysizarutzki,False
 1347,mariiroocha,False
-1348,lucas_znunes,False
-1349,tathianeferreira_,False
+1348,lucas_znunes,True
+1349,tathianeferreira_,True
 1350,ftgiga,False
 1351,ccomeetaa,False
 1352,diditrevs,True
@@ -1376,7 +1376,7 @@ Unnamed: 0,follower,visited
 1374,luismiguelv9,Private
 1375,victor59mello,False
 1376,caiohoo,False
-1377,y_bedak,False
+1377,y_bedak,True
 1378,marco.antonio_bc,False
 1379,hartmann.jr,False
 1380,betogaranhani,False
@@ -1456,11 +1456,11 @@ Unnamed: 0,follower,visited
 1454,leonicelsilva,False
 1455,alooonsofigueroa,False
 1456,patricia7reis,False
-1457,ismaliadesenhou,False
+1457,ismaliadesenhou,True
 1458,_gabiihenrique,False
 1459,nonstt,False
 1460,arthurveo,False
-1461,emer_songs,False
+1461,emer_songs,Invalid
 1462,nitamts,True
 1463,morenatr0pic4na,Private
 1464,jacquelinewds,False
@@ -1480,7 +1480,7 @@ Unnamed: 0,follower,visited
 1478,ketyzinhaa_,False
 1479,_anappo_,False
 1480,maedu.almeida,False
-1481,gabrielfrancisconm,False
+1481,gabrielfrancisconm,Private
 1482,gabriel._furts,False
 1483,jacu_cool,False
 1484,henryhagemaier,False
@@ -1538,7 +1538,7 @@ Unnamed: 0,follower,visited
 1536,_wfanaa,False
 1537,liscochinski,False
 1538,_muziee0,False
-1539,carinadaluzdeassis,False
+1539,carinadaluzdeassis,True
 1540,tovarisch____,False
 1541,spreagabrielle,False
 1542,caio_rique14,False
@@ -1628,9 +1628,9 @@ Unnamed: 0,follower,visited
 1626,engenheiraemae,False
 1627,douglas.rodrigues_adv,False
 1628,leticiavidottin,False
-1629,pattdw_k,False
+1629,pattdw_k,Private
 1630,gabriellesak_,False
-1631,gk.siqueira,False
+1631,gk.siqueira,Private
 1632,andressacechetto,False
 1633,suzi.olive,False
 1634,i.reifur,True
@@ -1674,7 +1674,7 @@ Unnamed: 0,follower,visited
 1672,wagner.rua,False
 1673,nadiaygoy,True
 1674,azeredk,False
-1675,aldarasuum_,False
+1675,aldarasuum_,Private
 1676,andressa_stk,False
 1677,rosana.criar,False
 1678,c_kretzel,Private
@@ -1723,7 +1723,7 @@ Unnamed: 0,follower,visited
 1721,kau_ss2004,False
 1722,heintales,Private
 1723,fer.estevinho,False
-1724,diana_alves_siqueira_marinho,False
+1724,diana_alves_siqueira_marinho,True
 1725,isa_montagnini,Private
 1726,stepurski_rafa,Private
 1727,gu.m379,False
@@ -1752,7 +1752,7 @@ Unnamed: 0,follower,visited
 1750,barney60datrajano,False
 1751,mgabreu2019,False
 1752,milena.gabrielas,False
-1753,jenny.snts,False
+1753,jenny.snts,True
 1754,erick_macuco,False
 1755,rolfsobrinho,False
 1756,liliankrz,False
@@ -1800,7 +1800,7 @@ Unnamed: 0,follower,visited
 1798,pris_ayres,False
 1799,duda_righi7,False
 1800,paulacarregari,False
-1801,luishpeletti,False
+1801,luishpeletti,Private
 1802,lenafromsg,Invalid
 1803,ricardostborges,False
 1804,yubarros_,False
@@ -1857,12 +1857,12 @@ Unnamed: 0,follower,visited
 1855,ehrays_haas,False
 1856,gimacielc,False
 1857,maahtamm,False
-1858,nicolas.rgariba,False
+1858,nicolas.rgariba,True
 1859,lascalamaik,False
 1860,rlfabri1976,False
 1861,brunahssantos,False
 1862,edicleiaruaro,Private
-1863,art.ranzani,False
+1863,art.ranzani,Private
 1864,lucas_nazario10,Private
 1865,rafael_romano_cwb,False
 1866,malluquessa,False
@@ -1972,7 +1972,7 @@ Unnamed: 0,follower,visited
 1970,horodeski_,False
 1971,elainecristina.ramos.58,False
 1972,danipiekarski,False
-1973,tmirandacefet,False
+1973,tmirandacefet,True
 1974,hoppe.representacao,False
 1975,ifrsrg_engmec,False
 1976,nilsinhojosepersonal,False
@@ -2035,7 +2035,7 @@ Unnamed: 0,follower,visited
 2033,debibcm,False
 2034,rafa.lvm,False
 2035,itsrogger,True
-2036,cleuza_qa,False
+2036,cleuza_qa,True
 2037,adrianaespelhorossi,False
 2038,jaque_desordi,Private
 2039,dricaolivepmst25,False
@@ -2102,14 +2102,14 @@ Unnamed: 0,follower,visited
 2100,andressa5132,False
 2101,brumarquesj,False
 2102,grupoelectra,False
-2103,o_lucasbarba,False
+2103,o_lucasbarba,Private
 2104,dramiriancmgp,False
 2105,matheus_o_pardinho,False
 2106,elbl_rafael,Private
 2107,jamile_c22,False
 2108,lucilladeandrade,Private
 2109,7lleonarelias3,False
-2110,pedroprapresidente,False
+2110,pedroprapresidente,Invalid
 2111,lucpaulos,True
 2112,emilly__walter,True
 2113,victorgcguedes,False
@@ -2139,7 +2139,7 @@ Unnamed: 0,follower,visited
 2137,cleverton_lm,False
 2138,edinarfc,False
 2139,sheylabarbieri,False
-2140,leticiafabri_,False
+2140,leticiafabri_,Private
 2141,st3h.chwn,False
 2142,naygoncalves_design,False
 2143,irannmoj,False
@@ -2163,14 +2163,14 @@ Unnamed: 0,follower,visited
 2161,ruan.paollo,False
 2162,joaoeduardolr,False
 2163,simonecarolinac,False
-2164,labadie_marcos,False
+2164,labadie_marcos,Private
 2165,mauro.bap,False
 2166,mmaylie_,Private
 2167,danbacch,False
 2168,prof.thiago.acioly,Invalid
 2169,dex_pecas,False
 2170,study.with.nai,False
-2171,aparecidajustina,False
+2171,aparecidajustina,Invalid
 2172,lucianoabcardoso,False
 2173,isadantasphoto,False
 2174,artsyjuu,True
@@ -2193,7 +2193,7 @@ Unnamed: 0,follower,visited
 2191,willwhatttt,False
 2192,_idontkaren,False
 2193,ivanizefraga,False
-2194,christo_gilson,False
+2194,christo_gilson,True
 2195,allanniels_,Private
 2196,lucasdavidrz,Private
 2197,guiperon,False
@@ -2264,7 +2264,7 @@ Unnamed: 0,follower,visited
 2262,araujoms23,False
 2263,nunu_raulino,False
 2264,matheusfurla3,False
-2265,_vitoriaalicee,False
+2265,_vitoriaalicee,True
 2266,_laizones,Private
 2267,carol.tha,False
 2268,ana.carolcamargo,False
@@ -2389,7 +2389,7 @@ Unnamed: 0,follower,visited
 2387,andrezasouz.a,False
 2388,gatti.fv,False
 2389,favretto041,False
-2390,eca.ifc.sbs,False
+2390,eca.ifc.sbs,True
 2391,_.pietra.cabral,False
 2392,priv_digo,Private
 2393,regipietro,False
@@ -2430,7 +2430,7 @@ Unnamed: 0,follower,visited
 2428,olesko_consultoria,False
 2429,larissa.bertges,False
 2430,sil_0218,False
-2431,bracaciom,False
+2431,bracaciom,True
 2432,mariaaafern,False
 2433,extutfpr,False
 2434,sislainecrotti,False
@@ -2440,10 +2440,10 @@ Unnamed: 0,follower,visited
 2438,gusta_landal,False
 2439,nihh_siqueira,False
 2440,vector_1704,Private
-2441,marlosnasc,False
+2441,marlosnasc,Private
 2442,esmaelponts,False
 2443,murilozakalugem,False
-2444,_gabrieldgarcia,False
+2444,_gabrieldgarcia,Private
 2445,andre.olopes,True
 2446,janainalopesgehr,False
 2447,joaocapel,False
@@ -2512,13 +2512,13 @@ Unnamed: 0,follower,visited
 2510,telma_paiva,False
 2511,gustavo_kusma,False
 2512,neideconik,False
-2513,andreza_quintas,False
+2513,andreza_quintas,True
 2514,fisicapratica,False
 2515,kauw_s.v,False
 2516,ramospetherson,False
 2517,manu_cardoz0,False
 2518,divinamir,True
-2519,yandhi_yuji,False
+2519,yandhi_yuji,Private
 2520,luiz_klock_,True
 2521,ricardocassiano._,False
 2522,marcelle_.slz,False
@@ -2536,7 +2536,7 @@ Unnamed: 0,follower,visited
 2534,lusilvabiernaski,False
 2535,kstjorge,Private
 2536,caio_h.b.s,False
-2537,carol_bia1302,False
+2537,carol_bia1302,Private
 2538,ph1lippi,False
 2539,nayarapl_,False
 2540,rafapmoro,False
@@ -2567,7 +2567,7 @@ Unnamed: 0,follower,visited
 2565,yphisms,False
 2566,joaovitormeschialfukushima,False
 2567,gebauer_mariana,False
-2568,agtrrs,False
+2568,agtrrs,Private
 2569,analuizaforigo,Private
 2570,ps.jota,False
 2571,haabybueno,False
@@ -2594,14 +2594,14 @@ Unnamed: 0,follower,visited
 2592,memo_andalco,False
 2593,knupp___i,False
 2594,victoria.vfs,False
-2595,daniellamottin,False
+2595,daniellamottin,Private
 2596,miillenafernandes,False
 2597,afranio_goncalves.ag,False
 2598,cahh_vitoriaa,True
 2599,cami_pski,Private
 2600,ericarafabricio,Private
-2601,gabriel_conte,False
-2602,giovana_manfron,False
+2601,gabriel_conte,Private
+2602,giovana_manfron,Private
 2603,pedro_henriquedsouza,False
 2604,pipocashowcuritiba,False
 2605,francolimferreira,False
@@ -2639,7 +2639,7 @@ Unnamed: 0,follower,visited
 2637,helo_quintino,False
 2638,leorbretaxx,False
 2639,marcelinocostax_,False
-2640,isabela_dcr,False
+2640,isabela_dcr,Private
 2641,oi.mikaa,False
 2642,brag.ancarhayssa,False
 2643,dudaagaleazzi,False
@@ -2686,11 +2686,11 @@ Unnamed: 0,follower,visited
 2684,mariaahe_costa,False
 2685,yantramar,False
 2686,anawleonel,Error
-2687,adrianamalgarezi,False
+2687,adrianamalgarezi,True
 2688,isaac_mendoza16,False
 2689,cotinho_melo_,False
 2690,isabelle.beatriz.9083,False
-2691,_brnaka,False
+2691,_brnaka,Private
 2692,_aline.th,False
 2693,ruth.franciele.3,False
 2694,pandinho0103,True
@@ -2722,7 +2722,7 @@ Unnamed: 0,follower,visited
 2720,epigrafe_se,False
 2721,potato.beto,True
 2722,vinihh7,False
-2723,clau_tarif,False
+2723,clau_tarif,Private
 2724,isabellaolopess,False
 2725,adrineiatecchio,False
 2726,professoraregina.utfprld,False
@@ -2756,7 +2756,7 @@ Unnamed: 0,follower,visited
 2754,woundssia,False
 2755,hick__alves,False
 2756,samuelsyokoyama,False
-2757,xavier_lucs,False
+2757,xavier_lucs,True
 2758,g_letchacovski,False
 2759,marcelocostama,False
 2760,luciannops,False
@@ -2807,7 +2807,7 @@ Unnamed: 0,follower,visited
 2805,dantuness_,False
 2806,matheus.gomeess,False
 2807,amyggomes,False
-2808,fabricadichocolateestacao,False
+2808,fabricadichocolateestacao,True
 2809,aderlanpsantos,True
 2810,paulla.helena.2023,Private
 2811,pcordeirofavoretto,False
@@ -2828,7 +2828,7 @@ Unnamed: 0,follower,visited
 2826,nicolas_bazzo,True
 2827,mari_simionato_,False
 2828,lino_juaoo,False
-2829,ccm_zilda_arns,False
+2829,ccm_zilda_arns,True
 2830,gab.fick,False
 2831,feeravelar,False
 2832,sabrihobbit,True
@@ -2862,7 +2862,7 @@ Unnamed: 0,follower,visited
 2860,jaqueline.ribeiro.315,False
 2861,johnwsh1,False
 2862,jewan_antunes,False
-2863,mi_sthefane,False
+2863,mi_sthefane,True
 2864,anaemarcio,False
 2865,mateusgregorio12,Private
 2866,cinthyamaral,Private
@@ -2905,7 +2905,7 @@ Unnamed: 0,follower,visited
 2903,jordanasociolc2019,Invalid
 2904,maria_kohlerr,True
 2905,danielerocha_dr,False
-2906,bruno.miranda.223,False
+2906,bruno.miranda.223,Private
 2907,ryan.felipes,Private
 2908,pv.leoz.in,True
 2909,rafael_debur,False
@@ -2994,7 +2994,7 @@ Unnamed: 0,follower,visited
 2992,kelem.motta,False
 2993,mth_goncalvess,False
 2994,joao_victor.ramos,Invalid
-2995,luizgu901,False
+2995,luizgu901,True
 2996,gabriel_rodra,False
 2997,j0a0.marin0,False
 2998,deehggr,True
@@ -3167,7 +3167,7 @@ Unnamed: 0,follower,visited
 3165,isavtri,False
 3166,moniquecastellano8,False
 3167,aligraunke,False
-3168,lkikuti,False
+3168,lkikuti,Private
 3169,mdrs_hellen,Invalid
 3170,dalyevans,False
 3171,k_millena12,False
@@ -3189,7 +3189,7 @@ Unnamed: 0,follower,visited
 3187,felipe_mossato,False
 3188,larihilchechem,False
 3189,_liacoutinho,False
-3190,vandisouza,False
+3190,vandisouza,Private
 3191,_vicckye,False
 3192,psor.fernando.s,False
 3193,alana_jacobowski,False
@@ -3228,7 +3228,7 @@ Unnamed: 0,follower,visited
 3226,larigoncalvesf,Private
 3227,dixpabloribeiro,False
 3228,mary_sartori,False
-3229,laura_coutinho2774,False
+3229,laura_coutinho2774,Deleted
 3230,ber._.aa,False
 3231,conteudo_raizes,False
 3232,marinaldo806,False
@@ -3288,7 +3288,7 @@ Unnamed: 0,follower,visited
 3286,bycacauview,False
 3287,joaquimcesar98,False
 3288,xande_valentim,False
-3289,monsieur_jeffs,False
+3289,monsieur_jeffs,True
 3290,g_nandes_,Private
 3291,raypaul112233,False
 3292,cassiana.tortato,False
@@ -3298,7 +3298,7 @@ Unnamed: 0,follower,visited
 3296,thevirgensagain,False
 3297,gustavocorso_,False
 3298,cesarjulior,False
-3299,piter_phe,False
+3299,piter_phe,True
 3300,portela__maria,False
 3301,penelope.cristina,False
 3302,victormr564,False
@@ -3309,7 +3309,7 @@ Unnamed: 0,follower,visited
 3307,anna.lary_15,False
 3308,lucas_deitos_,False
 3309,renata.grubba,False
-3310,phiie.wz,False
+3310,phiie.wz,True
 3311,veronica_wesolowski,Invalid
 3312,tiago_vilingas_luso,False
 3313,gomes.cwb,False
@@ -3332,7 +3332,7 @@ Unnamed: 0,follower,visited
 3330,diegodantas194,False
 3331,mabutattoo,True
 3332,manuelle_pires,False
-3333,polianamchad,False
+3333,polianamchad,Private
 3334,keniaacsg,False
 3335,camiljrd,False
 3336,didi.ar,False
@@ -3369,7 +3369,7 @@ Unnamed: 0,follower,visited
 3367,dehsouzaa__,False
 3368,samukasaas,False
 3369,ieda_castilho,False
-3370,m_ftvalenga,False
+3370,m_ftvalenga,True
 3371,thacav.5,False
 3372,wander.lmachado,Invalid
 3373,adrian.snak,Private
@@ -3378,7 +3378,7 @@ Unnamed: 0,follower,visited
 3376,sa.brinas2,False
 3377,16h35min,True
 3378,041_wdaniel,False
-3379,lari_romer0,False
+3379,lari_romer0,Private
 3380,thami_avc,False
 3381,deborakitzinger,True
 3382,lana.s.marques,False
@@ -3430,7 +3430,7 @@ Unnamed: 0,follower,visited
 3428,orodrigomes,Private
 3429,silwanforte,False
 3430,karenugulino,False
-3431,nathaly_ranye,False
+3431,nathaly_ranye,Private
 3432,ianqrz_,False
 3433,bernardo_r05,False
 3434,anaasenger_,False
@@ -3496,7 +3496,7 @@ Unnamed: 0,follower,visited
 3494,vitor.isaias.33,False
 3495,hellen_jb,Error
 3496,aryl_27,False
-3497,walleskab,False
+3497,walleskab,Private
 3498,ericagmz_,False
 3499,marlonferrari1974,False
 3500,c.g_giovanna,False
@@ -3510,7 +3510,7 @@ Unnamed: 0,follower,visited
 3508,alex_g_s_s,False
 3509,evelin_iachinski,Private
 3510,jaquelinegarciari,True
-3511,stibagi,False
+3511,stibagi,True
 3512,mais1cafe.inacio,False
 3513,pietraguerrap,False
 3514,leo.f.83,False
@@ -3603,7 +3603,7 @@ Unnamed: 0,follower,visited
 3601,pedroh_araujoo,False
 3602,_amanda_crispim,False
 3603,willixnnn,False
-3604,lice_maria_05,False
+3604,lice_maria_05,Invalid
 3605,botanicartenaescola,False
 3606,moniquecristinaferreira,False
 3607,_nicolas.trevisan_,False
@@ -3651,7 +3651,7 @@ Unnamed: 0,follower,visited
 3649,gois_henri,False
 3650,mar.cobee,False
 3651,igoreduz,False
-3652,rayane_almeida029,False
+3652,rayane_almeida029,Private
 3653,bellaleichinoski,False
 3654,matheus.pach,False
 3655,kamilyenes,True
@@ -3669,7 +3669,7 @@ Unnamed: 0,follower,visited
 3667,camilavelosomachado93,False
 3668,alessandragentilfreire,False
 3669,luhsemiao,False
-3670,mlk_mateus07,False
+3670,mlk_mateus07,True
 3671,gaby_veschultz,False
 3672,aldoe.visinoni,False
 3673,anadcapri,False
@@ -3695,7 +3695,7 @@ Unnamed: 0,follower,visited
 3693,dani___manfredi,Private
 3694,celiagarzuze,False
 3695,_biapiress,False
-3696,juan_colaco,False
+3696,juan_colaco,True
 3697,aksenenpedro__,False
 3698,geovanna_claro,False
 3699,_6tor_,False
@@ -3820,7 +3820,7 @@ Unnamed: 0,follower,visited
 3818,dionderek2,False
 3819,juliavlopes,Private
 3820,samuel.piaceski,False
-3821,souzajakeh,False
+3821,souzajakeh,Invalid
 3822,mar_iria,False
 3823,samantaflor1991,False
 3824,_.gustavuga._,False
@@ -3842,7 +3842,7 @@ Unnamed: 0,follower,visited
 3840,marcia_tomazezeski_,False
 3841,laura.wasshimi,Private
 3842,_moreonetime,False
-3843,dra_simone_almeida,False
+3843,dra_simone_almeida,True
 3844,malu.escuissato,False
 3845,itsmirela__,False
 3846,evelizesunshine,False
@@ -3972,7 +3972,7 @@ Unnamed: 0,follower,visited
 3970,murilo_amstaldem,False
 3971,matheus_sussai,False
 3972,luizzaborba,True
-3973,biondogih,False
+3973,biondogih,True
 3974,vii.marisoares,False
 3975,goldenparkcuritiba,False
 3976,nacionalinnestacao,False
@@ -4036,11 +4036,11 @@ Unnamed: 0,follower,visited
 4034,dasilvabah,False
 4035,anetogm,False
 4036,heitoranzolin,False
-4037,thais_krukoski,False
+4037,thais_krukoski,Private
 4038,merliniestudos,False
 4039,c4m1llyi,True
 4040,lyliansr_,False
-4041,adri.baldini,False
+4041,adri.baldini,Private
 4042,mano._fernandes,False
 4043,carol_binder,False
 4044,valentrayssa,False
@@ -4060,7 +4060,7 @@ Unnamed: 0,follower,visited
 4058,roberto.in,False
 4059,lucianofurtadocorrea,Private
 4060,becker.rodrigoo,False
-4061,francis_kanashiro_meneghetti,False
+4061,francis_kanashiro_meneghetti,Private
 4062,emysantiagoo,False
 4063,tatiamil,False
 4064,tatiane.quimica,Private
@@ -4101,7 +4101,7 @@ Unnamed: 0,follower,visited
 4099,guivcabral,False
 4100,yuuiicchi,False
 4101,_gabriellenr,Private
-4102,angraholyland,False
+4102,angraholyland,True
 4103,dafch_utfpr,False
 4104,lauraapiccini,False
 4105,henriquezinn_,True
@@ -4133,7 +4133,7 @@ Unnamed: 0,follower,visited
 4131,silanunes,False
 4132,ellenfalbo,False
 4133,gab_rielzuffo,Private
-4134,cristianepilissao,False
+4134,cristianepilissao,Private
 4135,kirkupjade,False
 4136,socratesjs,Private
 4137,tiago_andolfato,False
@@ -4281,9 +4281,9 @@ Unnamed: 0,follower,visited
 4279,julianaperalez,False
 4280,karen.wada,True
 4281,natyh_maria,True
-4282,kt_kylla,False
+4282,kt_kylla,Private
 4283,isapamoraes,False
-4284,juliaconci,False
+4284,juliaconci,True
 4285,g_picinato,False
 4286,gabriel_braza,True
 4287,_cassiasilvaa,True
@@ -4331,7 +4331,7 @@ Unnamed: 0,follower,visited
 4329,buzachi_guga,False
 4330,vinicius.nemetz,False
 4331,vitordat.i,True
-4332,kaaren.rodrigues,False
+4332,kaaren.rodrigues,True
 4333,alixo.vn,False
 4334,design.utfpr2023.1,False
 4335,raissaneria,False
@@ -4418,7 +4418,7 @@ Unnamed: 0,follower,visited
 4416,shinja_matos,False
 4417,joan_ne,False
 4418,jefferson.antonione,False
-4419,leo.wozniak_04,False
+4419,leo.wozniak_04,True
 4420,brunaandreuzo,False
 4421,maduh_rm,Error
 4422,marujo_poeta,False
@@ -4605,7 +4605,7 @@ Unnamed: 0,follower,visited
 4603,marluciaa96,False
 4604,reinaldo_kn,False
 4605,lussmokovicz,False
-4606,adjabreu,False
+4606,adjabreu,True
 4607,marcia.moraes.68,False
 4608,giullia_s.chagas,False
 4609,marciniakflavia,False
@@ -4614,7 +4614,7 @@ Unnamed: 0,follower,visited
 4612,silviahelena1000,False
 4613,mila._.lopes,False
 4614,theogrossl,Private
-4615,camily_gl,False
+4615,camily_gl,Private
 4616,mari_miahira,False
 4617,y.sertorio,False
 4618,aninhazem,False
@@ -4641,7 +4641,7 @@ Unnamed: 0,follower,visited
 4639,mariliafernandez_,False
 4640,mariana__quadros,False
 4641,leticiacldn,False
-4642,rosangelalopes6950,False
+4642,rosangelalopes6950,Private
 4643,mariana7292,False
 4644,canissoandrea,False
 4645,_ana_costa_,False
@@ -4664,7 +4664,7 @@ Unnamed: 0,follower,visited
 4662,bia_milla,False
 4663,lala_jimmyy,False
 4664,hellonalu,False
-4665,henriquepavanx,False
+4665,henriquepavanx,True
 4666,silvajuliz,False
 4667,thayssagaia,False
 4668,fundacaocelepar,False
@@ -4691,12 +4691,12 @@ Unnamed: 0,follower,visited
 4689,edu_massignan,False
 4690,s0uza_diego,True
 4691,ana_lilia_macedo,False
-4692,just.one.abreu,False
+4692,just.one.abreu,True
 4693,paulo_016oliveira,True
 4694,farfus_farfus_,False
 4695,frases_edu,Private
 4696,frogel.ali,Private
-4697,leoaguiar0,False
+4697,leoaguiar0,Private
 4698,_gabibiazi,False
 4699,estalo_design,True
 4700,leandrosantos.santos.925,False
@@ -4786,7 +4786,7 @@ Unnamed: 0,follower,visited
 4784,erickteixeira_33,False
 4785,marcellakmbernal,False
 4786,gabrielsilva.sd,Private
-4787,laybehrens,False
+4787,laybehrens,Private
 4788,guilhrmejuvencio,False
 4789,luh_scharam,False
 4790,qualyfika,False
@@ -4808,7 +4808,7 @@ Unnamed: 0,follower,visited
 4806,gabis_schmidt,False
 4807,beatrizpolli,False
 4808,chicoodelic,False
-4809,lucas_xbugui,False
+4809,lucas_xbugui,True
 4810,lucasmr27,Private
 4811,leo.hensa,False
 4812,g_mrques,Private
@@ -4841,7 +4841,7 @@ Unnamed: 0,follower,visited
 4839,alessandroepires,Private
 4840,mari_aurelio_,False
 4841,biadws,Private
-4842,edu_antuness,False
+4842,edu_antuness,Private
 4843,_ph.padilha,False
 4844,ariele_paiva98,Private
 4845,lucasj.garcia,False
@@ -4934,7 +4934,7 @@ Unnamed: 0,follower,visited
 4932,hishiyasu_joy,False
 4933,felipe.txs,False
 4934,bonattera,False
-4935,sznooppy,False
+4935,sznooppy,True
 4936,tarik_dla,False
 4937,_bolinhobolo,False
 4938,miriakatheleen,False
@@ -5030,7 +5030,7 @@ Unnamed: 0,follower,visited
 5028,danmai__,False
 5029,math_cruzs,False
 5030,gebsbeer,False
-5031,marco_guterres,False
+5031,marco_guterres,True
 5032,ricardojanssen,False
 5033,arthurcardosofer,False
 5034,carlosgerhard86,False
@@ -5059,7 +5059,7 @@ Unnamed: 0,follower,visited
 5057,andreazevedo_designer,False
 5058,carool.marques,Private
 5059,bia_seimetz30,False
-5060,cesarr.ti,False
+5060,cesarr.ti,Private
 5061,jessica_suzuk1,False
 5062,torres.cabral,False
 5063,karinedelmonego,False
@@ -5087,7 +5087,7 @@ Unnamed: 0,follower,visited
 5085,opablodamasio,False
 5086,ftborghi,False
 5087,lhe_oli,Private
-5088,gynna1990,False
+5088,gynna1990,True
 5089,mirella.bpa,False
 5090,peter.frank.perroni,False
 5091,exoticismi,False
@@ -5103,7 +5103,7 @@ Unnamed: 0,follower,visited
 5101,paulagpbrandao,False
 5102,gabrielesachinski,False
 5103,aguinaldodemelosilveira,False
-5104,tashima42,False
+5104,tashima42,Private
 5105,ju.fisioterapia,False
 5106,dryca_driii,False
 5107,gustavomafr,False
@@ -5118,7 +5118,7 @@ Unnamed: 0,follower,visited
 5116,pam_krist,False
 5117,saraa.brand,False
 5118,ivomateuscl,False
-5119,jholoppnow,False
+5119,jholoppnow,Private
 5120,pollyanna.nos,Private
 5121,eu.carlatl,False
 5122,maurizzio_martini,False
@@ -5294,8 +5294,8 @@ Unnamed: 0,follower,visited
 5292,duddamyr,False
 5293,https.gi_i,False
 5294,duda_1612,Private
-5295,ssia_adv,False
-5296,ppga.utfpr,False
+5295,ssia_adv,True
+5296,ppga.utfpr,True
 5297,thaedantas,False
 5298,duda_blay,False
 5299,aleaguiars,False
@@ -5326,7 +5326,7 @@ Unnamed: 0,follower,visited
 5324,lucimara_eder,False
 5325,ismael_rodrigues041,False
 5326,enf_andreluis,False
-5327,jayannepl,False
+5327,jayannepl,True
 5328,maycon_reis.17,False
 5329,gjoner,False
 5330,diegocastro_m,False
@@ -5367,7 +5367,7 @@ Unnamed: 0,follower,visited
 5365,fernando.ufms,False
 5366,prof.aldenice_luz,False
 5367,xadiafs,False
-5368,highustlerwhite,False
+5368,highustlerwhite,Private
 5369,bru_0.0,False
 5370,gabs_romanisio,False
 5371,avantusconstrutora,False
@@ -5378,7 +5378,7 @@ Unnamed: 0,follower,visited
 5376,pedro_da_c1,False
 5377,exposicao_porumfio,False
 5378,marli.nentwig.1,False
-5379,edu.ctba,False
+5379,edu.ctba,Private
 5380,__miguelfig,True
 5381,heitorgpiovan,False
 5382,mary.bortoncello,Private
@@ -5413,7 +5413,7 @@ Unnamed: 0,follower,visited
 5411,ally_mello9,False
 5412,amandappelbjj,False
 5413,fernanda_carneiroc.8,False
-5414,bruls2596,False
+5414,bruls2596,Private
 5415,leandroborges08,False
 5416,raisingmind_,False
 5417,dani.heidrich,Private
@@ -5513,14 +5513,14 @@ Unnamed: 0,follower,visited
 5511,ameliaregina3910,False
 5512,limontamaia,False
 5513,nayalmeida93,False
-5514,luiz_culpi,False
+5514,luiz_culpi,Private
 5515,mariacristinarauski,False
 5516,alexandra.santos.32,False
 5517,tefi.nha2k,True
 5518,renataduartebr,False
 5519,rafaelafortunatomusica,False
 5520,coach_maycon_oliver,False
-5521,sun_and_st4rs,False
+5521,sun_and_st4rs,Private
 5522,joaodelmouro,Private
 5523,lebaribas,False
 5524,s.capistrno,False
@@ -5539,7 +5539,7 @@ Unnamed: 0,follower,visited
 5537,aninhamariia_,False
 5538,tatiane_franz,Private
 5539,alexandrehaiduk,False
-5540,jorgeaugustocallado,False
+5540,jorgeaugustocallado,Private
 5541,guatsug,False
 5542,cibelle_alves2,False
 5543,projetoconscienciat3g6,False
@@ -5585,7 +5585,7 @@ Unnamed: 0,follower,visited
 5583,livinixx,False
 5584,nlgangor,False
 5585,marcianealvesdealmeida,False
-5586,alexandre.freitaslousada,False
+5586,alexandre.freitaslousada,Private
 5587,lorenavedovato,False
 5588,jennykjuhrdd,Private
 5589,patrickfrei_tas,False
@@ -5702,7 +5702,7 @@ Unnamed: 0,follower,visited
 5700,cello.guimaraes,False
 5701,pedro_hsk,False
 5702,victorfrdgt,False
-5703,demourapl,False
+5703,demourapl,Private
 5704,caroline.tomazoni,False
 5705,andrealcantaraf,False
 5706,_lehforte,Private
@@ -5763,7 +5763,7 @@ Unnamed: 0,follower,visited
 5761,aysllan_branco,False
 5762,luizfernandodl,False
 5763,anibrzkn,False
-5764,milecalegari,False
+5764,milecalegari,True
 5765,o_social_democrata,False
 5766,leandrofragoso7,False
 5767,availsonn,False
@@ -5790,7 +5790,7 @@ Unnamed: 0,follower,visited
 5788,pi.scorzato,False
 5789,r3gulob,False
 5790,lulubekamala,False
-5791,isachrisls,False
+5791,isachrisls,Private
 5792,pedr_mot,False
 5793,henriquecarlos5859,False
 5794,vlubian,False
@@ -5883,7 +5883,7 @@ Unnamed: 0,follower,visited
 5881,rassi_joao,False
 5882,caiossalvia,False
 5883,tathiana_cborges,False
-5884,andrielly.delimak,False
+5884,andrielly.delimak,Private
 5885,jadeportugalf,False
 5886,andre.esmanhoto,False
 5887,a_schwengber,False
@@ -5959,7 +5959,7 @@ Unnamed: 0,follower,visited
 5957,marilanejacintho,True
 5958,dihenrique87,False
 5959,dudaaaa_farias,True
-5960,a.nananana_,False
+5960,a.nananana_,Private
 5961,luis_cortiano,False
 5962,futurepublishersgroup,False
 5963,fkbordados,True
@@ -6006,7 +6006,7 @@ Unnamed: 0,follower,visited
 6004,emanuel_f.c,False
 6005,eliel.4lves,False
 6006,amandacarini,True
-6007,candy_moon69,False
+6007,candy_moon69,Private
 6008,jao_arraes,False
 6009,guuhho,False
 6010,priscilacanto43,False
@@ -6025,7 +6025,7 @@ Unnamed: 0,follower,visited
 6023,guieckel,False
 6024,douradokleber,False
 6025,wanessaramsdorf,False
-6026,angelmclovia,False
+6026,angelmclovia,True
 6027,fatima_azenha,False
 6028,prof.sidneysanchez,False
 6029,ceciliamarczal,False
@@ -6040,7 +6040,7 @@ Unnamed: 0,follower,visited
 6038,rafaluques_,False
 6039,agf.liv,False
 6040,aflavinhams,False
-6041,tinnarob,False
+6041,tinnarob,Private
 6042,claudiele_castro,False
 6043,murante_leandra,False
 6044,odineiben,False
@@ -6079,7 +6079,7 @@ Unnamed: 0,follower,visited
 6077,damares.x,False
 6078,shubiru.jururu,False
 6079,anddreocosta,False
-6080,eng_juliocezarbueno,False
+6080,eng_juliocezarbueno,Deleted
 6081,robertapolettoimports,False
 6082,darkshau.u,False
 6083,tatibmoreira,False
@@ -6156,7 +6156,7 @@ Unnamed: 0,follower,visited
 6154,jhow.mrq,False
 6155,_samyleon,False
 6156,guilhermepadoan,False
-6157,natan_mor,False
+6157,natan_mor,True
 6158,vine.bieell,False
 6159,carolinitavaress,False
 6160,gustavo__ben,False
@@ -6186,7 +6186,7 @@ Unnamed: 0,follower,visited
 6184,_fernanda_zimmer,False
 6185,larissariosli,False
 6186,inecegomes,False
-6187,junglesrafael,False
+6187,junglesrafael,Private
 6188,cleidemaraqcavalcante,False
 6189,diluircientifica,False
 6190,violeta._.pereira_,False
@@ -6246,7 +6246,7 @@ Unnamed: 0,follower,visited
 6244,iohantc,False
 6245,bianca_erthal,False
 6246,9joao_lucas9,True
-6247,pedrogabf,False
+6247,pedrogabf,Private
 6248,kauanleguenza,False
 6249,ther_sangali,False
 6250,vmarochi,False
@@ -6390,7 +6390,7 @@ Unnamed: 0,follower,visited
 6388,_henri1q,False
 6389,alana.lz,False
 6390,an_naflv,False
-6391,sangoi_lucas,False
+6391,sangoi_lucas,Private
 6392,maluenglishunddeutschekurs,True
 6393,maryliahrj,False
 6394,sidnelson_nascimento,False
@@ -6465,7 +6465,7 @@ Unnamed: 0,follower,visited
 6463,angelocolognese,False
 6464,tamiresporkote,False
 6465,pamelajoswiak,False
-6466,bruna.maria3,False
+6466,bruna.maria3,True
 6467,ericka_yx,False
 6468,fm2mix,False
 6469,daniellemanziniadvocacia,False
@@ -6525,7 +6525,7 @@ Unnamed: 0,follower,visited
 6523,vniy.vieira,False
 6524,cae.slompo,False
 6525,xkmello,False
-6526,bonis_ph,False
+6526,bonis_ph,True
 6527,laismontagnini,True
 6528,kailostatsea,False
 6529,amk_santos,False
@@ -6554,7 +6554,7 @@ Unnamed: 0,follower,visited
 6552,manu_alvesds,False
 6553,luana_leticia.03,False
 6554,tieminat,False
-6555,edson_diegoo,False
+6555,edson_diegoo,Private
 6556,cmili_vihh,False
 6557,vane_vane_p,False
 6558,luuu.vicente,False
@@ -6623,7 +6623,7 @@ Unnamed: 0,follower,visited
 6621,ifpr.capanema,False
 6622,bizstorithont,False
 6623,weberr.renata,False
-6624,rodrigo_medeiros25,False
+6624,rodrigo_medeiros25,Private
 6625,carolinekuckla,True
 6626,isalesch,Private
 6627,lara_pls,False
@@ -6715,7 +6715,7 @@ Unnamed: 0,follower,visited
 6713,afernanda86,False
 6714,mih2015ribeiro,False
 6715,marte_stad,False
-6716,agatha_meelo,False
+6716,agatha_meelo,Private
 6717,elianemauli,False
 6718,raquel_marafon,False
 6719,tunts.rocks,False
@@ -6847,7 +6847,7 @@ Unnamed: 0,follower,visited
 6845,rossaluciane,False
 6846,djonatanfotografia,False
 6847,tvianaa,False
-6848,asavi_ct,False
+6848,asavi_ct,True
 6849,alsfranco_,True
 6850,cacia_ss,False
 6851,sjplixozero,False
@@ -6858,11 +6858,11 @@ Unnamed: 0,follower,visited
 6856,dalem.curitiba,False
 6857,adalberto_sanchez1,False
 6858,camilasalatti,False
-6859,_.fermadrid,False
+6859,_.fermadrid,True
 6860,migu.elakt,False
 6861,alinefracarolli,False
-6862,psiqueme,False
-6863,lc_kwi,False
+6862,psiqueme,True
+6863,lc_kwi,True
 6864,papodecomorg,True
 6865,lexandre.br,False
 6866,gabrielfelipe_11,False
@@ -6904,7 +6904,7 @@ Unnamed: 0,follower,visited
 6902,burymeinred,False
 6903,fran_oliveirali,False
 6904,bizudabiologia,False
-6905,prisoriabazzo,False
+6905,prisoriabazzo,Private
 6906,marciomafra_,False
 6907,budal_pedro,False
 6908,felipeperretto,False
@@ -6934,7 +6934,7 @@ Unnamed: 0,follower,visited
 6932,eisabelac,Private
 6933,a.abrase,False
 6934,cassianaejardel,False
-6935,beaatriz_lp,False
+6935,beaatriz_lp,Private
 6936,waleska_a_baggio,False
 6937,braiayay,False
 6938,amandahflg,False
@@ -6987,10 +6987,10 @@ Unnamed: 0,follower,visited
 6985,paulobiss,True
 6986,claudialimacwb,False
 6987,camarotegdn,False
-6988,cesar_topline,False
+6988,cesar_topline,True
 6989,aline.macohin,True
 6990,ediletrar,False
-6991,stefanni_mariane,False
+6991,stefanni_mariane,Private
 6992,mur1lol,False
 6993,sindimetalpr,False
 6994,_r.e.bo.r.n_,False
@@ -7014,7 +7014,7 @@ Unnamed: 0,follower,visited
 7012,rodbcl,True
 7013,gabs.beatriz_,False
 7014,andr_batista,False
-7015,antonylopees,False
+7015,antonylopees,Private
 7016,caioisch,False
 7017,meu_studygram,False
 7018,felipecarvalhw,True
@@ -7061,7 +7061,7 @@ Unnamed: 0,follower,visited
 7059,psicolarissa_demoraes,False
 7060,hamedream,False
 7061,joaopaulomunck,False
-7062,academicpro.consultoria,False
+7062,academicpro.consultoria,True
 7063,alvessjp,False
 7064,pedrothomas_1_,True
 7065,rlara.exe,False
@@ -7083,7 +7083,7 @@ Unnamed: 0,follower,visited
 7081,alexandreegisleine,False
 7082,giulianobruel,True
 7083,luiz.amnf,True
-7084,leticiadefatima6,False
+7084,leticiadefatima6,Private
 7085,yokarkle,False
 7086,vinha_paula,False
 7087,isasampaior,Private
@@ -7123,7 +7123,7 @@ Unnamed: 0,follower,visited
 7121,carlos.blanger,Private
 7122,leeonardo_04,False
 7123,rick_barros_,False
-7124,nic_tada,False
+7124,nic_tada,True
 7125,giodmsio,False
 7126,_agnesx,False
 7127,darah.varela,False
@@ -7141,7 +7141,7 @@ Unnamed: 0,follower,visited
 7139,comuniqson,False
 7140,tiemi.tarui,False
 7141,luuiz0303,Private
-7142,rebeca.svm,False
+7142,rebeca.svm,True
 7143,niks.andre,False
 7144,matfiorini,False
 7145,shar.peniche,False
@@ -7174,7 +7174,7 @@ Unnamed: 0,follower,visited
 7172,_eurenanribeiro_,False
 7173,valen_mb12,False
 7174,laismesquita.s,False
-7175,gab001sb,False
+7175,gab001sb,True
 7176,claudineia.apm2017,False
 7177,ana.marv.edfisica,Private
 7178,emily_bianchyni,False
@@ -7193,7 +7193,7 @@ Unnamed: 0,follower,visited
 7191,utfpr_memes,False
 7192,isa_piffer02,Private
 7193,lubtrz,False
-7194,juliaag_d,False
+7194,juliaag_d,Private
 7195,julimachado22,False
 7196,carolstolz,False
 7197,_joaomiyamoto,Private
@@ -7273,7 +7273,7 @@ Unnamed: 0,follower,visited
 7271,eliabeg1994,False
 7272,10112001f,False
 7273,mblira297,False
-7274,wellintofbjj,False
+7274,wellintofbjj,Private
 7275,morgss_1994,False
 7276,caiogbriel,True
 7277,o_furlano,Error
@@ -7345,7 +7345,7 @@ Unnamed: 0,follower,visited
 7343,gutierrez.felipe.d,False
 7344,szpolli,False
 7345,gabihferreira.o.f,False
-7346,marcyy_vargas,False
+7346,marcyy_vargas,Private
 7347,pedrohenriquefarinadossantos,False
 7348,fox__bre,False
 7349,gabi_danielski,Private
@@ -7369,9 +7369,9 @@ Unnamed: 0,follower,visited
 7367,alinesanfelici,False
 7368,marichagas.upes,Invalid
 7369,mathsr10,False
-7370,bnfernandes92,False
+7370,bnfernandes92,Private
 7371,larissatavares003,False
-7372,not.hayta,False
+7372,not.hayta,True
 7373,lucas.brusch,False
 7374,bubble.ella,True
 7375,sarah._.goncalves,True
@@ -7388,7 +7388,7 @@ Unnamed: 0,follower,visited
 7386,jean.rossato,False
 7387,amacinrm,False
 7388,lucasgviazdeck,Invalid
-7389,caminho_da_aprendizagem.chapa4,False
+7389,caminho_da_aprendizagem.chapa4,True
 7390,colegiosertaozinho_88,False
 7391,thuibarreto,False
 7392,gremio.leoesdebagda,False
@@ -7398,7 +7398,7 @@ Unnamed: 0,follower,visited
 7396,maira.cordeiro.9615,False
 7397,pri.diasmb,False
 7398,edi.kirchbauer,False
-7399,esa_eng_ambiental,False
+7399,esa_eng_ambiental,True
 7400,or4h_deb,False
 7401,laurah.oliveira.a,False
 7402,utfprvida,False
@@ -7519,7 +7519,7 @@ Unnamed: 0,follower,visited
 7517,bruh_rm,Private
 7518,elcilane_araujo,Private
 7519,perrito_pelotudo,False
-7520,irisfernanda26,False
+7520,irisfernanda26,Private
 7521,luiz.otav1o,False
 7522,carlos_gracianoo,False
 7523,guigolhermes,False
@@ -7532,7 +7532,7 @@ Unnamed: 0,follower,visited
 7530,lerixchevonica,False
 7531,ana.kufner,False
 7532,cwb_madur,True
-7533,eco.edulab,False
+7533,eco.edulab,True
 7534,ferraz_juliaaa,False
 7535,biomol_utfpr_dv,True
 7536,vick_isa_,False
@@ -7556,7 +7556,7 @@ Unnamed: 0,follower,visited
 7554,alineboucinhas,False
 7555,fabiolavvieira,Private
 7556,mfaviles,False
-7557,leco.am,False
+7557,leco.am,Private
 7558,lucinete7440,False
 7559,pedrocarlinp,Private
 7560,kovalczkowski,False
@@ -7565,9 +7565,9 @@ Unnamed: 0,follower,visited
 7563,isa.osinski,False
 7564,si.bomfim,False
 7565,victorselhorst_,False
-7566,am4zzyng,False
+7566,am4zzyng,True
 7567,pietropaganii,False
-7568,_g.martines_,False
+7568,_g.martines_,True
 7569,ndawmansour,False
 7570,may._gaby,False
 7571,ericajjeni,False
@@ -7598,10 +7598,10 @@ Unnamed: 0,follower,visited
 7596,nickhgr_,False
 7597,vini.delara,False
 7598,joaovitorcassilhaoficial,False
-7599,felipeunserk,False
+7599,felipeunserk,True
 7600,caua_luck7,False
 7601,bru_yoshi,False
-7602,henrique_nastari,False
+7602,henrique_nastari,True
 7603,kelly_beatrixd,False
 7604,yuri.ott,False
 7605,pabloqrino,False
@@ -7619,7 +7619,7 @@ Unnamed: 0,follower,visited
 7617,beatrizmisu,False
 7618,natalymends,False
 7619,fer.ollv,False
-7620,educoradin_,False
+7620,educoradin_,True
 7621,jaifabrasil,False
 7622,g.calegaro,Private
 7623,handreowyllyann,False
@@ -7684,7 +7684,7 @@ Unnamed: 0,follower,visited
 7682,jaquee.arient,False
 7683,hayanajaines,Private
 7684,fabidelamar,False
-7685,leticia_demura,False
+7685,leticia_demura,Private
 7686,brunaolivecwb,False
 7687,isabella_0_12,False
 7688,carollealribas,False
@@ -7724,7 +7724,7 @@ Unnamed: 0,follower,visited
 7722,magnuslogan23,False
 7723,franknavy,False
 7724,biadolfini,False
-7725,adeabacaxi,False
+7725,adeabacaxi,True
 7726,_amandioca,True
 7727,rickmatheus_03,False
 7728,sseixaspaulo,False
@@ -7770,7 +7770,7 @@ Unnamed: 0,follower,visited
 7768,vini.canestraro,False
 7769,anarodrigues__1,False
 7770,daviromanzini,False
-7771,tainarasilva__,False
+7771,tainarasilva__,Private
 7772,andre_delemos,False
 7773,vanessa_erance,False
 7774,matheusawolski,False
@@ -7809,9 +7809,9 @@ Unnamed: 0,follower,visited
 7807,euridesneiva,False
 7808,caiene_nene,False
 7809,leo.hscamargo,False
-7810,priharada,False
+7810,priharada,Private
 7811,marcos_sivis,True
-7812,l_kaminski_,False
+7812,l_kaminski_,True
 7813,guilherme_ramos27,False
 7814,gabrielgetten,False
 7815,gomes__e,False
@@ -7823,7 +7823,7 @@ Unnamed: 0,follower,visited
 7821,joojkun,Error
 7822,_gatisbleudo,Private
 7823,rafa._.wolff,False
-7824,fabiohfh03,False
+7824,fabiohfh03,True
 7825,hebiinho,False
 7826,jubassauro7,True
 7827,ruffles_teiv,False
@@ -7859,14 +7859,14 @@ Unnamed: 0,follower,visited
 7857,mariacarolin.e,False
 7858,click.ctba,False
 7859,alesff_pv,False
-7860,luigi.docx,False
+7860,luigi.docx,Private
 7861,podologa_ivetegomes,False
 7862,monteiro_tanialucia,False
 7863,jackelinecornelsen,False
 7864,ohenripaixao,False
 7865,rontanijanaina,False
 7866,lub.ms,False
-7867,diegomamprim,False
+7867,diegomamprim,True
 7868,isabulow,Private
 7869,pantographbrindes,False
 7870,rhuan.p.almeida,False
@@ -7911,7 +7911,7 @@ Unnamed: 0,follower,visited
 7909,diego_zem,False
 7910,waldorrlff,False
 7911,certamenteumdoswil,False
-7912,larissaeickhoff,False
+7912,larissaeickhoff,Private
 7913,rjrobsonjunior,False
 7914,criswenglarek,False
 7915,nandacristinaah,Private
@@ -7921,7 +7921,7 @@ Unnamed: 0,follower,visited
 7919,ju.ne_4,False
 7920,daianerosseto,False
 7921,pauloporlan,False
-7922,vit_gr00,False
+7922,vit_gr00,True
 7923,andre.prasel,False
 7924,mi.muler,False
 7925,sei_sicite,True
@@ -7933,7 +7933,7 @@ Unnamed: 0,follower,visited
 7931,michelangelo.cali,Private
 7932,garbbin.rodrigo,False
 7933,ribeiroxexeu,Private
-7934,gislaine_amorim_oliveira,False
+7934,gislaine_amorim_oliveira,Private
 7935,felipekryminice,False
 7936,b.bahniuk,False
 7937,tayla.pc,False
@@ -7981,7 +7981,7 @@ Unnamed: 0,follower,visited
 7979,adriaansantos,False
 7980,maggie_pvd,False
 7981,cristiane.english,False
-7982,danilo_cmm,False
+7982,danilo_cmm,Private
 7983,flavioeduardofernandes,False
 7984,gabrield_fernandes,True
 7985,let.moony,False
@@ -8018,7 +8018,7 @@ Unnamed: 0,follower,visited
 8016,shirlei_massa,False
 8017,iza.gabrielly18,False
 8018,aline.pereira1980,False
-8019,_spottedutfpr_,False
+8019,_spottedutfpr_,True
 8020,_franjunior_,False
 8021,aaallan.oliveira,False
 8022,vicalipo,False
@@ -8073,7 +8073,7 @@ Unnamed: 0,follower,visited
 8071,pri_zimermann,False
 8072,mayy_uchoa,False
 8073,li.li.ana.x,False
-8074,lethicyayukari,False
+8074,lethicyayukari,Invalid
 8075,elis_glamurosa,Private
 8076,bocard1,False
 8077,xixorro,False
@@ -8138,7 +8138,7 @@ Unnamed: 0,follower,visited
 8136,marcos_viniciuss_,False
 8137,fernandaabila,False
 8138,lebuen0,False
-8139,v_errera,False
+8139,v_errera,Private
 8140,pacheco_vinny_,True
 8141,enzobevil,False
 8142,lucimaraciesla,False
@@ -8213,7 +8213,7 @@ Unnamed: 0,follower,visited
 8211,ellyvelasques,False
 8212,brr_camargo,False
 8213,bruno_shin_,False
-8214,rafiqsaid1,False
+8214,rafiqsaid1,Private
 8215,orusso_oficial,False
 8216,pedromarszalek,False
 8217,erickaalmeidabjj,False
@@ -8233,7 +8233,7 @@ Unnamed: 0,follower,visited
 8231,nikoale_c,False
 8232,isabelelinharesyoga,Invalid
 8233,amanda.t.cunha,False
-8234,jeaan.borges,False
+8234,jeaan.borges,True
 8235,lua.seniski,True
 8236,joaopedrocastilhocardoso,False
 8237,gustavo_hul,False
@@ -8309,7 +8309,7 @@ Unnamed: 0,follower,visited
 8307,ana07ramalho,False
 8308,robson.edf,False
 8309,chelle_almeida07,False
-8310,newfraga,False
+8310,newfraga,Private
 8311,analuciacapaverde,False
 8312,joaoferreira___,False
 8313,kelly_furlan0_0,False
@@ -8317,7 +8317,7 @@ Unnamed: 0,follower,visited
 8315,gremioloureiro,False
 8316,maricota_sthezdixx,False
 8317,thalitagf,False
-8318,annacom2ene,False
+8318,annacom2ene,Private
 8319,ketlen_rodrigues13,False
 8320,laisgevaerd,False
 8321,bbmendesss,False
@@ -8460,7 +8460,7 @@ Unnamed: 0,follower,visited
 8458,luispaulo.pxb,False
 8459,laissaadsa_,False
 8460,ma.jiuu,False
-8461,paolaleaomandalas,False
+8461,paolaleaomandalas,Invalid
 8462,analice_am04,False
 8463,1bertoribas,False
 8464,balla.us,False
@@ -8491,13 +8491,13 @@ Unnamed: 0,follower,visited
 8489,ceci__sw,False
 8490,suelen_happy_mascarenhos,False
 8491,alineffranca_16,Private
-8492,faocami,False
+8492,faocami,Private
 8493,isabelavgoncalves_,False
 8494,yce_cream_queen,Private
 8495,_danielfigueiro_,False
 8496,felipe_bryto,False
 8497,hederrobert,False
-8498,ludivoigt,False
+8498,ludivoigt,Invalid
 8499,leticia_hillebrant,True
 8500,icaroocamargo,True
 8501,p.pichelli,False
@@ -8520,7 +8520,7 @@ Unnamed: 0,follower,visited
 8518,duhh_tx,False
 8519,_gaabiespindola,False
 8520,geisypm,False
-8521,rodr2,False
+8521,rodr2,True
 8522,robustacoffee_co,True
 8523,mbaderna,False
 8524,ryangazaniga,True
@@ -8622,7 +8622,7 @@ Unnamed: 0,follower,visited
 8620,ari_tomasi,False
 8621,viniciusbap_,False
 8622,gabriel_anabuki,False
-8623,ana.ambrogi,False
+8623,ana.ambrogi,Private
 8624,vequinhooo,False
 8625,isabellygcl,False
 8626,larissabartziki,False
@@ -8638,7 +8638,7 @@ Unnamed: 0,follower,visited
 8636,sophi.moleiro,False
 8637,iyojeio,False
 8638,gabrielmessioli,Private
-8639,omarzladen,False
+8639,omarzladen,Private
 8640,sandrap_souza,False
 8641,dayy__boutique,False
 8642,kesse_jhones,False
@@ -8657,7 +8657,7 @@ Unnamed: 0,follower,visited
 8655,daiane.ferreira.c.l,False
 8656,malumessaggi,False
 8657,nicolly.polakowski,False
-8658,manulis_,False
+8658,manulis_,Private
 8659,farmaciadotropical,False
 8660,timm_duda,False
 8661,karks___,False
@@ -8666,7 +8666,7 @@ Unnamed: 0,follower,visited
 8664,leandrofreittaass,False
 8665,smxuxusmxuxu,False
 8666,rick_orza,False
-8667,gabikodacki,False
+8667,gabikodacki,True
 8668,fabianakamargo,False
 8669,dnsuter,False
 8670,fk.sspinelli,Private
@@ -8688,7 +8688,7 @@ Unnamed: 0,follower,visited
 8686,guilhermekaleo,False
 8687,roadsportster,False
 8688,kuaffor,False
-8689,alexiarissato,False
+8689,alexiarissato,Private
 8690,larissa_gomess02,False
 8691,fabio_kloster,False
 8692,suhriibas,False
@@ -8708,7 +8708,7 @@ Unnamed: 0,follower,visited
 8706,ana_.majeski,False
 8707,eduardapereira.96,Private
 8708,flaviobentesfreire,Invalid
-8709,breno.brenoaugusto,False
+8709,breno.brenoaugusto,Private
 8710,monkinatorres,False
 8711,lu.larssen,Private
 8712,talitafernandes,Private
@@ -8718,9 +8718,9 @@ Unnamed: 0,follower,visited
 8716,victor_fesza,False
 8717,matheus_com_aga,False
 8718,geordaniade,False
-8719,edu_polli,False
+8719,edu_polli,Private
 8720,ediellekaroline,False
-8721,anadeboraborato,False
+8721,anadeboraborato,True
 8722,cillaguiar,Private
 8723,raphaelhartmann_,False
 8724,biholler_,False
@@ -8749,7 +8749,7 @@ Unnamed: 0,follower,visited
 8747,moniquekenway,False
 8748,gui_metelski,False
 8749,ferreiraluxs,False
-8750,_jitkoski,False
+8750,_jitkoski,Private
 8751,ricardocpl,False
 8752,_walger_,True
 8753,guilhermeassef,True
@@ -8776,7 +8776,7 @@ Unnamed: 0,follower,visited
 8774,amaandavi_,False
 8775,_keniaespindola,True
 8776,estruturadaredacao,True
-8777,moiiiissesaaveillaaa._______,False
+8777,moiiiissesaaveillaaa._______,Private
 8778,josuemen.des,False
 8779,elainecristinada543,Private
 8780,denisemendesseveriano,Private
@@ -8799,7 +8799,7 @@ Unnamed: 0,follower,visited
 8797,teusoxd,False
 8798,kimberlykilim,False
 8799,bolim.bolacho,False
-8800,meiuguarapuava,False
+8800,meiuguarapuava,True
 8801,dk_damiani,True
 8802,lorenn.o,False
 8803,henriqdalle,False
@@ -8844,7 +8844,7 @@ Unnamed: 0,follower,visited
 8842,taty_teminsta,False
 8843,idelainerocha,False
 8844,gu_hermogenes,Private
-8845,inesmafioletti,False
+8845,inesmafioletti,Private
 8846,raphagn_,False
 8847,callmemaril,False
 8848,dcefenix.ap,False
@@ -8892,7 +8892,7 @@ Unnamed: 0,follower,visited
 8890,iamvanessa_nunes,False
 8891,andreaveiga_,False
 8892,adm_alicenunes,False
-8893,joseardigo,False
+8893,joseardigo,Private
 8894,cami_vitoria35,False
 8895,quero_kursos,False
 8896,curitinanatureza,False
@@ -8924,7 +8924,7 @@ Unnamed: 0,follower,visited
 8922,_nati_vitoria,False
 8923,szlichtawanderley,True
 8924,sanfelice_cezar,False
-8925,lari.trixx,False
+8925,lari.trixx,Private
 8926,ajvmaretti,Private
 8927,luanamcosta,False
 8928,g_raiman,False
@@ -8940,7 +8940,7 @@ Unnamed: 0,follower,visited
 8938,sandratiepolo,False
 8939,lf_feernando,False
 8940,emiliapaulasantos26,False
-8941,professornoslen,False
+8941,professornoslen,Invalid
 8942,sylnaga,False
 8943,gabic.tavares,False
 8944,lari_raquell,False
@@ -8959,7 +8959,7 @@ Unnamed: 0,follower,visited
 8957,vinicios_fms,False
 8958,joa0_reiss,False
 8959,julianogarcia94,False
-8960,debora_reisdelima,False
+8960,debora_reisdelima,True
 8961,vitor.moroz,False
 8962,vanessa.stella87,Private
 8963,raquelmendes.dias,False
@@ -8990,7 +8990,7 @@ Unnamed: 0,follower,visited
 8988,krngshm,False
 8989,_gabiferla,False
 8990,edsonmarcosfilho,False
-8991,laila.viannas,False
+8991,laila.viannas,Deleted
 8992,anandalorenacarvalho,False
 8993,mariana.rpaul,False
 8994,eudeborahs,False
@@ -9036,7 +9036,7 @@ Unnamed: 0,follower,visited
 9034,iolanda_furtado67,False
 9035,marcheretti,False
 9036,meiripires,False
-9037,meclduda,False
+9037,meclduda,Private
 9038,ale_cremer,True
 9039,kyomimoon,False
 9040,beriwithberries,Private
@@ -9093,7 +9093,7 @@ Unnamed: 0,follower,visited
 9091,babs_fer,False
 9092,ppgccpg,False
 9093,thewbds,True
-9094,karen_fernanda_f,False
+9094,karen_fernanda_f,Private
 9095,jefersoncosta___,False
 9096,deianovavida,False
 9097,podcastdafairy,False
@@ -9218,7 +9218,7 @@ Unnamed: 0,follower,visited
 9216,andreia_sant_anna,False
 9217,jonas_h_osorio,False
 9218,matheus.bpimentel,False
-9219,elianefirakoski,False
+9219,elianefirakoski,Private
 9220,ajtsmello,False
 9221,eneponto,Private
 9222,andreiaosantoss,False
@@ -9250,7 +9250,7 @@ Unnamed: 0,follower,visited
 9248,pacondes_kami,False
 9249,nathalia.jhs,False
 9250,labicom.udesc,True
-9251,fer11.stos,False
+9251,fer11.stos,True
 9252,valeoneda,True
 9253,rvsfara,False
 9254,agolivcivil,False
@@ -9299,7 +9299,7 @@ Unnamed: 0,follower,visited
 9297,talitarodriguesart,False
 9298,paideiko,False
 9299,lik4v_,False
-9300,robertohauer,False
+9300,robertohauer,Private
 9301,matheuus_nascimento,False
 9302,juapasi,False
 9303,gui_rlimaa,False
@@ -9332,7 +9332,7 @@ Unnamed: 0,follower,visited
 9330,ricardoguddemartins,False
 9331,watyllalencar,False
 9332,caiomunizz,False
-9333,leonardocosbor,False
+9333,leonardocosbor,True
 9334,guchemin,False
 9335,vlad.arc,Private
 9336,makaviski,False
@@ -9391,7 +9391,7 @@ Unnamed: 0,follower,visited
 9389,nathscotti,False
 9390,alex.garefa,False
 9391,edilza.barros,False
-9392,bruno.d.barros,False
+9392,bruno.d.barros,Private
 9393,henriquechj,False
 9394,fernandabassani10,False
 9395,bazevedo.psicologia,False
@@ -9443,7 +9443,7 @@ Unnamed: 0,follower,visited
 9441,destakcaminhoes,False
 9442,rafaeuoliper,False
 9443,lala.murti,False
-9444,_williandeoliveira,False
+9444,_williandeoliveira,Private
 9445,santospausdecora,False
 9446,pedro.amsantos,False
 9447,leosurgik,False
@@ -9489,7 +9489,7 @@ Unnamed: 0,follower,visited
 9487,melloalie,False
 9488,preparatoriooraculo,False
 9489,natikroin,False
-9490,cindy_piassetta_xavier,False
+9490,cindy_piassetta_xavier,True
 9491,evelinecamillo,False
 9492,eva.gerva,False
 9493,gi_cesario,False
@@ -9536,7 +9536,7 @@ Unnamed: 0,follower,visited
 9534,alisson_santos__,False
 9535,fabipietzak,False
 9536,koinlebeuqirneh,False
-9537,mathias_angioletti,False
+9537,mathias_angioletti,True
 9538,luisjanc,False
 9539,haone_mendes,False
 9540,studionarazen,False
@@ -9555,7 +9555,7 @@ Unnamed: 0,follower,visited
 9553,alyribas,False
 9554,wellferleo,False
 9555,caiusvitor,False
-9556,nicolleferraz_,False
+9556,nicolleferraz_,Private
 9557,rafa.ap.running,False
 9558,cs597247,Private
 9559,jessica.dacosta.144,False
@@ -9563,7 +9563,7 @@ Unnamed: 0,follower,visited
 9561,gioriskalla,Private
 9562,imariasouza_,False
 9563,johan.wodzynski,False
-9564,o_aiury,False
+9564,o_aiury,True
 9565,eng.elainequilante,False
 9566,adykvidal,False
 9567,leooadc,Private
@@ -9581,7 +9581,7 @@ Unnamed: 0,follower,visited
 9579,mbazoli12,False
 9580,silmdlq,False
 9581,juliobezerra1979,False
-9582,danni.lima_,False
+9582,danni.lima_,Private
 9583,fabiola.l_10,False
 9584,bimattos,False
 9585,fortes_laura,False
@@ -9608,7 +9608,7 @@ Unnamed: 0,follower,visited
 9606,let.gama,False
 9607,halina_9991,Private
 9608,henryaestheticspa,False
-9609,niceleiafernandes27,False
+9609,niceleiafernandes27,Private
 9610,gabrielerolim,False
 9611,alfredo.solorzanocasos,False
 9612,fernanda.verchai,False
@@ -9622,7 +9622,7 @@ Unnamed: 0,follower,visited
 9620,stark_luka,False
 9621,nathcampez,Private
 9622,estudaqueavid,Private
-9623,andreiaabritoo,False
+9623,andreiaabritoo,Deleted
 9624,licquimica.utfpr,False
 9625,matheus_strapa,False
 9626,debora_sabrina_ullrich,False
@@ -9712,7 +9712,7 @@ Unnamed: 0,follower,visited
 9710,camila.mmelo,False
 9711,ferrsantosandrade,False
 9712,eve.rinaldi,False
-9713,licita.erdobrasil,False
+9713,licita.erdobrasil,True
 9714,andreluizdba,False
 9715,halefhalan,False
 9716,7899.adrian,False
@@ -9752,12 +9752,12 @@ Unnamed: 0,follower,visited
 9750,laucjos,False
 9751,jessieesilva,False
 9752,davibuchler12,Invalid
-9753,felipe_possa_,False
+9753,felipe_possa_,Private
 9754,profpaulolourenco,False
 9755,ratedronei,False
 9756,unhasdabrendinha,False
 9757,nath_s.l,False
-9758,thiago_riaan,False
+9758,thiago_riaan,Private
 9759,lucasdornelesz,False
 9760,gabiromig,False
 9761,mluisahs,Private
@@ -9854,7 +9854,7 @@ Unnamed: 0,follower,visited
 9852,jorgeeik2001,False
 9853,elizamathurmann,False
 9854,marcuscerq,False
-9855,giih_beckerramos,False
+9855,giih_beckerramos,True
 9856,carolinem.honda,False
 9857,alefarq,False
 9858,ppgtp.utfpr,False
@@ -9905,7 +9905,7 @@ Unnamed: 0,follower,visited
 9903,gusfcardoso,False
 9904,emi_bluebelt,False
 9905,apenas_otavio,False
-9906,anaflaviapauluk,False
+9906,anaflaviapauluk,True
 9907,nidyllic,False
 9908,maria.mercante,False
 9909,ferralves,False
@@ -9916,7 +9916,7 @@ Unnamed: 0,follower,visited
 9914,leti_sborges,False
 9915,darlingdaft,False
 9916,mm.dutra,False
-9917,queiroz.ribas,False
+9917,queiroz.ribas,True
 9918,http.thaylamilla,True
 9919,otaviocintraa,False
 9920,kami.rfs,False
@@ -10078,7 +10078,7 @@ Unnamed: 0,follower,visited
 10076,brunaodemelo,False
 10077,moniqisabelle,False
 10078,joaof_corso,False
-10079,brunoprovensi,False
+10079,brunoprovensi,Private
 10080,uniwanderson,False
 10081,soophwx,False
 10082,manu_damas_,False
@@ -10127,7 +10127,7 @@ Unnamed: 0,follower,visited
 10125,biabelz,False
 10126,melos.emile,False
 10127,abrubrinha,True
-10128,leticiaflorianii,False
+10128,leticiaflorianii,True
 10129,m.adur,False
 10130,letcieslak_,False
 10131,guedes6587,False
@@ -10139,7 +10139,7 @@ Unnamed: 0,follower,visited
 10137,rerequeiroz,False
 10138,sara_dsk,False
 10139,tainaschoemberger,False
-10140,leko_ribas,False
+10140,leko_ribas,Private
 10141,lucianodrosda,False
 10142,glendhadiiniz,False
 10143,gabrielantonioveiga,False
@@ -10147,11 +10147,11 @@ Unnamed: 0,follower,visited
 10145,luh367,Invalid
 10146,vitoralbq,False
 10147,aline_fontana,False
-10148,dudaolk,False
+10148,dudaolk,Private
 10149,capato_lucas,False
-10150,eng.pollyannanos,False
+10150,eng.pollyannanos,True
 10151,joao_henriquejhpb,False
-10152,rossanagonzalezsantos,False
+10152,rossanagonzalezsantos,Private
 10153,_isabelcosta,False
 10154,camillapenter,False
 10155,ely_on_001,False
@@ -10177,7 +10177,7 @@ Unnamed: 0,follower,visited
 10175,gaby.taviro,False
 10176,mari.manto,False
 10177,_martins_lia,False
-10178,lucasjava,False
+10178,lucasjava,Private
 10179,clau_tome254,False
 10180,_roberta_andrade,True
 10181,zacalugem,True
@@ -10292,9 +10292,9 @@ Unnamed: 0,follower,visited
 10290,brunomonteirogomes,Private
 10291,milton.m.junior,False
 10292,natalia_gigglberger,False
-10293,nicollikarolini,False
+10293,nicollikarolini,Private
 10294,dudunogue,Private
-10295,rafaellugh,False
+10295,rafaellugh,Private
 10296,sbqsul2021,False
 10297,josejoaquim.jj,Private
 10298,b_juanm,False
@@ -10313,14 +10313,14 @@ Unnamed: 0,follower,visited
 10311,carla_t.i.libras,False
 10312,helenmki,False
 10313,viviankadowaki,False
-10314,adm.adilsonsilva,False
+10314,adm.adilsonsilva,Private
 10315,pedromuniz25,False
 10316,claudiagomes899,False
 10317,iugetsarev,False
 10318,vhcervickass,False
 10319,dasquadrasastelas,False
 10320,ninaweissheimer,False
-10321,thaisbessa_,False
+10321,thaisbessa_,Private
 10322,giovanalamp,False
 10323,celinaomori,False
 10324,adrianohbraga,False
@@ -10332,7 +10332,7 @@ Unnamed: 0,follower,visited
 10330,redeemancipa.pr,False
 10331,marcelokan_oliveira,False
 10332,leilamarquesm,False
-10333,arthur_anacleto01,False
+10333,arthur_anacleto01,Private
 10334,luizwolfgangstoeberl,False
 10335,alberto_reis_silva,False
 10336,ves.tib,False
@@ -10356,7 +10356,7 @@ Unnamed: 0,follower,visited
 10354,pedro_strap,True
 10355,viniciussop,False
 10356,evandro_palheta,False
-10357,rcciago,False
+10357,rcciago,Private
 10358,gachevve,False
 10359,natachaprosdocimo,False
 10360,herbertehms,False
@@ -10380,7 +10380,7 @@ Unnamed: 0,follower,visited
 10378,greicequeleoliveira,False
 10379,vitorrosso_,False
 10380,saci.fi,True
-10381,0.giio_.gii.kks_.0,False
+10381,0.giio_.gii.kks_.0,Private
 10382,gus.kuma,False
 10383,00dsilva00,False
 10384,eicristiny,False
@@ -10395,7 +10395,7 @@ Unnamed: 0,follower,visited
 10393,adryan_szenczuk,True
 10394,anna_karolina_souza,False
 10395,silviiomolina,False
-10396,lillith.rock,False
+10396,lillith.rock,Private
 10397,evelyn.lira,False
 10398,alinetambosi,False
 10399,camilinferreira,False
@@ -10413,7 +10413,7 @@ Unnamed: 0,follower,visited
 10411,lucy_ro_pereira,False
 10412,cleomaraf,False
 10413,jezz.beker,False
-10414,movafestival,False
+10414,movafestival,True
 10415,regireque,False
 10416,patriciadiasnardino,False
 10417,im_likus,False
@@ -10430,7 +10430,7 @@ Unnamed: 0,follower,visited
 10428,caio.souzaa_,False
 10429,guseraphim,False
 10430,medicinabussines,False
-10431,marinacaah,False
+10431,marinacaah,True
 10432,sara_nagai_,False
 10433,dionetardim,False
 10434,taynahberribe,False
@@ -10442,19 +10442,19 @@ Unnamed: 0,follower,visited
 10440,luciane_prado74,False
 10441,leenecarladesouza,False
 10442,metalbagnolin,False
-10443,an1lima,False
+10443,an1lima,Private
 10444,milena_micalichen,False
 10445,whothefckisgiovanni,False
 10446,danisminozzo,False
 10447,denise_c_luz,Private
 10448,faleiro_amanda,False
 10449,lleoquintino,False
-10450,marcelo.griebeler,False
+10450,marcelo.griebeler,True
 10451,lucasgtrevisan,False
 10452,caroline.costachaves,False
 10453,theosneves,Error
 10454,utfpr_pg,False
-10455,breperformer41,False
+10455,breperformer41,True
 10456,biancaczaya,False
 10457,luizadist7fan,False
 10458,vitor_carneir0,False
@@ -10467,7 +10467,7 @@ Unnamed: 0,follower,visited
 10465,andreacastagini,False
 10466,carloslesniowski,Invalid
 10467,eloisahelen,False
-10468,o.francielide,False
+10468,o.francielide,True
 10469,takashii_cos,True
 10470,edutfpr,False
 10471,eduardo_biscotto,False
@@ -10485,7 +10485,7 @@ Unnamed: 0,follower,visited
 10483,h.a.prorenata,Private
 10484,luizrodrigow,False
 10485,nati_santin,False
-10486,guimazon,False
+10486,guimazon,Private
 10487,_elizeufilho,Private
 10488,didis.k,False
 10489,leleizaldino,False
@@ -10525,7 +10525,7 @@ Unnamed: 0,follower,visited
 10523,pcrucinski,False
 10524,gkbressam,False
 10525,augustusbrandao,False
-10526,malu.qr,False
+10526,malu.qr,Private
 10527,flaa_vidal,False
 10528,aliny.herrero,False
 10529,_math.grapo,False
@@ -10578,7 +10578,7 @@ Unnamed: 0,follower,visited
 10576,_caesilva,False
 10577,murilo_fardin,True
 10578,vini__aug,Private
-10579,acamiless,False
+10579,acamiless,True
 10580,he19_00,True
 10581,alicewernerg,False
 10582,fabi.abilhoa,False
@@ -10591,7 +10591,7 @@ Unnamed: 0,follower,visited
 10589,catito.n.m,False
 10590,bu_caron,False
 10591,thgcstn,False
-10592,einsteindisse,False
+10592,einsteindisse,True
 10593,gabi_delgadob,False
 10594,thaiany_ssoares,Private
 10595,pedroo_mellooo,False
@@ -10636,7 +10636,7 @@ Unnamed: 0,follower,visited
 10634,novandtecnologia,True
 10635,herbarioutfprdv,False
 10636,jahleoncio,False
-10637,e.si.g.ni.o,False
+10637,e.si.g.ni.o,True
 10638,personal_mestre_jhonatan,False
 10639,okan_alquimiadocorpoealma,True
 10640,moraes_tamiles,False
@@ -10688,7 +10688,7 @@ Unnamed: 0,follower,visited
 10686,joelpaesjr,False
 10687,leondosz,False
 10688,leeoblp,False
-10689,nicky_zs_,False
+10689,nicky_zs_,True
 10690,l_gustavog,False
 10691,wellingtonod_,False
 10692,amandamchad,False
@@ -10746,7 +10746,7 @@ Unnamed: 0,follower,visited
 10744,cha_zinho,False
 10745,mi_mi_desenha,False
 10746,abelhas.utfpr,False
-10747,museudamedicinapr,False
+10747,museudamedicinapr,True
 10748,paulaleticiafreitas,False
 10749,juliaflora08,False
 10750,nicollynicetto,False
@@ -10767,7 +10767,7 @@ Unnamed: 0,follower,visited
 10765,grecoserafim,False
 10766,jackfukuda,False
 10767,leticiaaa_m.s,False
-10768,welitonperdomo,False
+10768,welitonperdomo,Private
 10769,a.biasakakibara,False
 10770,oliviaperdoncini,Private
 10771,gik.barbosa,False
@@ -10932,7 +10932,7 @@ Unnamed: 0,follower,visited
 10930,jd.megana,False
 10931,snetto7,False
 10932,marlenesoares_1101,False
-10933,_elissavieira,False
+10933,_elissavieira,Private
 10934,isacamily,False
 10935,avlesportsgg,False
 10936,andreiabuenodasilva7,False
@@ -10960,7 +10960,7 @@ Unnamed: 0,follower,visited
 10958,apng.anderson.assis,False
 10959,blank.fireworks,False
 10960,monikitta_la,False
-10961,nucleo.fotografiautfpr,False
+10961,nucleo.fotografiautfpr,True
 10962,cafe_zinnho,False
 10963,daqbifb,False
 10964,ppgea_fb_utfpr,False
@@ -10988,7 +10988,7 @@ Unnamed: 0,follower,visited
 10986,joaopedropelichek,False
 10987,gabriellrecco,False
 10988,coarqct.utfpr,False
-10989,michelsmaka,False
+10989,michelsmaka,True
 10990,jhulianacristina_,False
 10991,adriangcs_,False
 10992,ferclourenco,Private
@@ -11033,7 +11033,7 @@ Unnamed: 0,follower,visited
 11031,nacamurajunior,False
 11032,joseluizbrandi,False
 11033,omerobertol,False
-11034,feimsodre,False
+11034,feimsodre,Private
 11035,a.mmartins,False
 11036,veckier,Private
 11037,camilla_hass1,False
@@ -11061,7 +11061,7 @@ Unnamed: 0,follower,visited
 11059,silvia_a_w,True
 11060,renan.borsoi,True
 11061,almeidahellena873,False
-11062,mangelicacst,False
+11062,mangelicacst,True
 11063,akiiresu,Private
 11064,diga.shis,False
 11065,joaofabro1,True
@@ -11081,13 +11081,13 @@ Unnamed: 0,follower,visited
 11079,vanessaconstanceambrosio,Private
 11080,bruno_del_rio,Private
 11081,giesi_ss,False
-11082,thi4g0_g,False
+11082,thi4g0_g,Invalid
 11083,vanderbr0ck,False
 11084,leticia.mendes.14473,False
 11085,unifespchapa2,False
 11086,profe.jaquefontes,Private
 11087,lucynda_araujo,False
-11088,pequenobardo,False
+11088,pequenobardo,Deleted
 11089,viihvesentin,False
 11090,fernandobasane,Private
 11091,jessjessvalle,False
@@ -11099,7 +11099,7 @@ Unnamed: 0,follower,visited
 11097,wtfseijifuu,False
 11098,apenas_avibe,False
 11099,cristianshimada,False
-11100,fabriciofontourasantos,False
+11100,fabriciofontourasantos,Private
 11101,tecsolutfpr,False
 11102,nickzzzera_,False
 11103,rothaiss,False
@@ -11133,13 +11133,13 @@ Unnamed: 0,follower,visited
 11131,suelemquintao,False
 11132,oleandrodesa,Invalid
 11133,andreia.vieirasilva,False
-11134,vitor_chevalier,False
+11134,vitor_chevalier,Private
 11135,vbgiovana,False
 11136,daltonnr_,False
 11137,spotted__utfpr,False
 11138,siqueiralp,False
 11139,kaa.chan_,False
-11140,lucasantonio_ofc,False
+11140,lucasantonio_ofc,Private
 11141,clickutfpr,False
 11142,mariasueli854,False
 11143,j.nareski,False
@@ -11158,7 +11158,7 @@ Unnamed: 0,follower,visited
 11156,nilceia_perez_ribeiro,Private
 11157,marianildalemes,True
 11158,dralorenabrasil.dentista,False
-11159,gminfo.gmpc,False
+11159,gminfo.gmpc,Invalid
 11160,huan.t.s_s,False
 11161,gika_scurupa,False
 11162,scurupa,False
@@ -11206,7 +11206,7 @@ Unnamed: 0,follower,visited
 11204,sthemotomura,False
 11205,emilly_schissler,False
 11206,_cirocosta,False
-11207,adrifaerber,False
+11207,adrifaerber,Invalid
 11208,utiyamah,False
 11209,lasc_utfpr,False
 11210,brendacfran,False
@@ -11236,7 +11236,7 @@ Unnamed: 0,follower,visited
 11234,_jennibatista,False
 11235,bru.thompson,False
 11236,santin_victor,Private
-11237,repositoriosbrasileiros,False
+11237,repositoriosbrasileiros,True
 11238,carol_zanata,False
 11239,margareth.cmm,False
 11240,labmultld,False
@@ -11252,7 +11252,7 @@ Unnamed: 0,follower,visited
 11250,piaf.isa,False
 11251,llaissantanaa,False
 11252,ei.hellen,False
-11253,carolesalberti,False
+11253,carolesalberti,Private
 11254,akapigatto,False
 11255,lupautfpr,False
 11256,professor.heron,False
@@ -11267,7 +11267,7 @@ Unnamed: 0,follower,visited
 11265,fabipauletti,False
 11266,leo.sbardelotto,False
 11267,adrianoperpetuo,False
-11268,hnrique_gusta,False
+11268,hnrique_gusta,Private
 11269,mluana_,False
 11270,laura_lucchesi_,False
 11271,taiana.p.ramos,False
@@ -11281,15 +11281,15 @@ Unnamed: 0,follower,visited
 11279,jcrazevedo,True
 11280,sandrarantunesprado,False
 11281,terezabarbarabp,False
-11282,cult.myself,False
+11282,cult.myself,True
 11283,prof.a_anna_utfpr,True
 11284,jessicav_nascimento,False
 11285,gabis_mgr,False
 11286,gabriel_ps,False
-11287,_elisfer_,False
-11288,projetofuse,False
+11287,_elisfer_,Private
+11288,projetofuse,True
 11289,oadvogadoonline,False
-11290,daniedevecchi,False
+11290,daniedevecchi,Private
 11291,andre_nunes_do_nascimento,False
 11292,monicamolezi,False
 11293,emmanuel_tapajos,False
@@ -11305,7 +11305,7 @@ Unnamed: 0,follower,visited
 11303,sandremir_claudiano,Private
 11304,cac.utfpr,False
 11305,pietropalberti,False
-11306,unicomvida,False
+11306,unicomvida,True
 11307,kemi.lopes,Invalid
 11308,matteosschmitt,False
 11309,_sapaula,False
@@ -11338,9 +11338,9 @@ Unnamed: 0,follower,visited
 11336,thais.pais,False
 11337,nanci_stancki_da_luz,False
 11338,victor__vdd,False
-11339,fabericardo,False
+11339,fabericardo,True
 11340,gabii.fcosta,False
-11341,shana_lima_tododia,False
+11341,shana_lima_tododia,Invalid
 11342,thamicfotos,True
 11343,bia_karins,False
 11344,jdiogo_mar,False
@@ -11452,7 +11452,7 @@ Unnamed: 0,follower,visited
 11450,gabrieltiepermann,False
 11451,nanawo03,False
 11452,vini_chud,False
-11453,lauraa_waldow,False
+11453,lauraa_waldow,Private
 11454,franciscobecheli,False
 11455,osdival_junior,True
 11456,lrss02,False
@@ -11571,7 +11571,7 @@ Unnamed: 0,follower,visited
 11569,vileloo,False
 11570,carol.gpe,False
 11571,__lucassmartins,False
-11572,khalifera,False
+11572,khalifera,True
 11573,pedro.s8uza,False
 11574,gaspar_rafa,False
 11575,joaop_mafra,False
@@ -11607,7 +11607,7 @@ Unnamed: 0,follower,visited
 11605,danrlei_,False
 11606,mahferr,False
 11607,lu_ampuero,False
-11608,gi_barossi,False
+11608,gi_barossi,Private
 11609,mini.demonio,False
 11610,helenacolino,False
 11611,nataliaxduran,False
@@ -11619,7 +11619,7 @@ Unnamed: 0,follower,visited
 11617,isacrslima,False
 11618,im_thss,False
 11619,sarahgiora,False
-11620,sarah__rds_,False
+11620,sarah__rds_,Private
 11621,dani.ferreiradossantos,False
 11622,anaaplz,False
 11623,gabysalmoria,False
@@ -11669,7 +11669,7 @@ Unnamed: 0,follower,visited
 11667,brtok,False
 11668,random.cwb,Private
 11669,guilhermehdo_,False
-11670,emilsonfisica,False
+11670,emilsonfisica,Private
 11671,ace_ufpr,False
 11672,marisagomesrodri,False
 11673,santos_roger888,False
@@ -11713,7 +11713,7 @@ Unnamed: 0,follower,visited
 11711,aasoctavio,False
 11712,segredosutfpr,False
 11713,pedro.pc94,False
-11714,menollisimone,False
+11714,menollisimone,Private
 11715,dadinutfpr,False
 11716,vicentinifla,False
 11717,andressacmonego,False
@@ -11736,7 +11736,7 @@ Unnamed: 0,follower,visited
 11734,bruno.dolinski,False
 11735,camargo_all,False
 11736,jordaoitalo,Private
-11737,wasteofskinn,False
+11737,wasteofskinn,True
 11738,k.retroart,False
 11739,marilenetmx,False
 11740,badgelgigi,False
@@ -11829,7 +11829,7 @@ Unnamed: 0,follower,visited
 11827,jua1debarro,False
 11828,gus_serbena,Private
 11829,emilias_utfpr,False
-11830,valissapaiva,False
+11830,valissapaiva,Private
 11831,lucianosrp,Private
 11832,felipesolob,False
 11833,utfprld,False
@@ -11852,7 +11852,7 @@ Unnamed: 0,follower,visited
 11850,modelariautfpr,True
 11851,sollarias,Invalid
 11852,alyssonkaique,True
-11853,bateriamaleficoz,False
+11853,bateriamaleficoz,True
 11854,felipe_lobato,False
 11855,sinapseufpr,False
 11856,paulocesarhora,False
@@ -11892,7 +11892,7 @@ Unnamed: 0,follower,visited
 11890,_baarbarella_,False
 11891,keissy__santos,False
 11892,mathmgfs,False
-11893,anamedina.art,False
+11893,anamedina.art,Invalid
 11894,mkautfpr,False
 11895,lucas.j.ferreira,False
 11896,computaria_ct,False
@@ -11908,7 +11908,7 @@ Unnamed: 0,follower,visited
 11906,theanalet,False
 11907,liviiacs,False
 11908,jenibubniak,False
-11909,anaamalialenhardt,False
+11909,anaamalialenhardt,True
 11910,coimbralago,False
 11911,maricoelho__,False
 11912,sgodioso,False
@@ -11927,7 +11927,7 @@ Unnamed: 0,follower,visited
 11925,ricardo_ferraz_,Private
 11926,leaclab,Invalid
 11927,joaopedrogalera,False
-11928,felipe_marconcin,False
+11928,felipe_marconcin,Invalid
 11929,pheejarschel,False
 11930,adhricomh,False
 11931,mneryc,False
@@ -12017,7 +12017,7 @@ Unnamed: 0,follower,visited
 12015,n_guimaraes11,False
 12016,martins_vitu,False
 12017,maicoornelas,False
-12018,dryange,False
+12018,dryange,Private
 12019,rdeducadorfinanceiro,True
 12020,julilemos,False
 12021,ceciliarechegarcia,False
@@ -12039,7 +12039,7 @@ Unnamed: 0,follower,visited
 12037,ganacim,False
 12038,claudiabmjm,False
 12039,loanawandrowelzti,Private
-12040,olga_bagatin,False
+12040,olga_bagatin,Private
 12041,wandnovais,False
 12042,literaturaparavestibular,False
 12043,andersoncaetanopaulo,False
@@ -12118,7 +12118,7 @@ Unnamed: 0,follower,visited
 12116,lucasrgorgulho,False
 12117,cimcocuritiba,False
 12118,stech.2019,False
-12119,dr.greenplants,False
+12119,dr.greenplants,Private
 12120,thiago.morais.carlos,False
 12121,orobocigano,False
 12122,guilherme.a.schneider,False
@@ -12207,7 +12207,7 @@ Unnamed: 0,follower,visited
 12205,curitibacidademaravilhosa,False
 12206,pichorim,False
 12207,oseiassantosdeoliveira,False
-12208,erick_bferreira,False
+12208,erick_bferreira,True
 12209,eduardosimoninip,False
 12210,jv.moinho,False
 12211,marciele_filippi,Private
@@ -12277,7 +12277,7 @@ Unnamed: 0,follower,visited
 12275,canani_marcelo,False
 12276,gianluccafiori,False
 12277,mah_neczypor,False
-12278,divonetedalpiaz,False
+12278,divonetedalpiaz,Private
 12279,rafatheurer,False
 12280,joaorrroberto,False
 12281,carlos_kaspchak,False
@@ -12288,7 +12288,7 @@ Unnamed: 0,follower,visited
 12286,joaopaulo_mmartins,False
 12287,keith_gabriella,False
 12288,biajuliarc,False
-12289,brunoleo2016,False
+12289,brunoleo2016,Private
 12290,lurian.domingos,False
 12291,guipopin,False
 12292,guaramontagem,False
@@ -12310,7 +12310,7 @@ Unnamed: 0,follower,visited
 12308,dudatrayon,False
 12309,cassieth_,False
 12310,szimanski10,False
-12311,joaomoro_,False
+12311,joaomoro_,Private
 12312,anatrentini_,False
 12313,lipegermanos,False
 12314,juliana.oro_,False
@@ -12321,12 +12321,12 @@ Unnamed: 0,follower,visited
 12319,laiscovalski,False
 12320,karina_pachecos,False
 12321,d_barboz,False
-12322,brunamaciel7,False
+12322,brunamaciel7,Private
 12323,pietratrida,Private
 12324,isabelaurbanetz,False
 12325,mauricioamx,False
 12326,jeferson_ferreira804,Private
-12327,diasmatt_,False
+12327,diasmatt_,Private
 12328,guilhermedionizio.o,True
 12329,aliciavieirasousa,True
 12330,sensumatos,True
@@ -12370,7 +12370,7 @@ Unnamed: 0,follower,visited
 12368,emanuell.garcia,False
 12369,juanmansano,False
 12370,gessicapalaoro,False
-12371,katty.machado,False
+12371,katty.machado,Private
 12372,ilanpazetto,True
 12373,vilkas___,False
 12374,brunobonet,Private
@@ -12420,7 +12420,7 @@ Unnamed: 0,follower,visited
 12418,walmorgodoi,False
 12419,lopees_gabriel,False
 12420,luizcelsojr,False
-12421,gustavo_ramos02,False
+12421,gustavo_ramos02,Private
 12422,jehsima,True
 12423,gio.muraro,False
 12424,rapha.marinhoteixeira,False
@@ -12453,10 +12453,10 @@ Unnamed: 0,follower,visited
 12451,flp.schmidt,False
 12452,happyburger.cwb,False
 12453,matheusiungblut,False
-12454,nkhayene,False
+12454,nkhayene,True
 12455,zique181,False
 12456,matheus.thz,Private
-12457,flavio_nto,False
+12457,flavio_nto,Private
 12458,arthurkellner,False
 12459,otavio_av,False
 12460,victor.de.lara,False
@@ -12482,5 +12482,5 @@ Unnamed: 0,follower,visited
 12480,ingridrau,False
 12481,take.careofyou,False
 12482,weslleispetrick,False
-12483,olucasbuts,False
+12483,olucasbuts,True
 12484,rafael_piazentin,False

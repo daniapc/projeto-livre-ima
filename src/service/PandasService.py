@@ -63,7 +63,11 @@ class PandasService:
         
             if visited == "False":
                 user = element[1]
-                status, following_list = instaloader_service.get_profile_data(user)
+                try:
+                    status, following_list = instaloader_service.get_profile_data(user)
+                except Exception as ex:
+                    TimeService.notifica_erro(str(ex))
+                    exit()
                 updated_lines[index][2] = status
 
                 if status == "True":
