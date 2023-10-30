@@ -148,6 +148,7 @@ class PandasService:
         all_lines = f.readlines()
 
         for line in all_lines:
+            line = line[:-1]
             all_items_list.append(line.split(','))
 
         return all_items_list
@@ -176,5 +177,30 @@ class PandasService:
             for item in element:
                 row = row + item + ','
             f.write(row[:-1])
+
+        f.close()
+
+    def group_arules(self, path, algorithm):
+        f = open(path + algorithm + '.csv' ,"r")
+
+        header = f.readline().split('\n')[0]
+
+        all_lines = f.readlines()
+
+        df = pd.read_csv(path + 'perfis_utfpr.csv')
+
+        selected_profiles = df[df.columns[0]].values.tolist()
+
+        for profile in selected_profiles:
+            current_group = []
+            for line in all_lines:
+                if profile in line:
+                    current_group.append(line[:-1])
+                
+            f = open(path + '/grouping_arules/' + profile + '.csv', "w")
+            f.write(header)
+            for element in current_group:
+                f.write('\n')
+                f.write(element)
 
         f.close()

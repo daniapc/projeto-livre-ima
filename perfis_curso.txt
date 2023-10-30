@@ -1,0 +1,25 @@
+Administração - admetralhas
+Arquitetura e Urbanismo - cavnautfpr
+Bacharelado em Química - aaa.maleficoz/dalputfpr
+Bacharelado em Química Ambiental - aaa.maleficoz/dalputfpr
+Comunicação Organizacional - cac.utfpr/aaadec
+Design - alguresutfpr/dadinutfpr/aaadec/cadut_utfpr
+Educação Física - matilhautfpr/edfisicautfpr
+Engenharia Ambiental e Sanitária - eas.utfprct/caabs_utfpr
+Engenharia Civil - cacarutfpr/civil_utfprct
+Engenharia de Computação - dasc.utfpr/peteco_utfpr/cdp_utfprct
+Engenharia de Controle e Automação - daacel
+Engenharia Elétrica - daacel
+Engenharia Eletrônica - caeln.utfpr/peteco_utfpr
+Engenharia Mecânica - 
+Engenharia Mecatrônica - catron.utfpr
+Licenciatura em Física - aaa.maleficoz/cautecutfpr
+Licenciatura em Letras - Inglês - dalet_ct/aaadec/aaa.maleficoz
+Licenciatura em Letras - Português - dalet_ct/aaadec/aaa.maleficoz
+Licenciatura em Matemática - aaa.maleficoz
+Licenciatura em Química - aaa.maleficoz/dalputfpr
+Sistemas de Informação - dasc.utfpr/peteco_utfpr/cdp_utfprct
+Tecnologia em Automação Industrial - daacel
+Tecnologia em Design Gráfico -alguresutfpr/dadinutfpr/aaadec/cadut_utfpr
+Tecnologia em Radiologia - carad.utfpr/matilhautfpr
+Tecnologia em Sistemas de Telecomunicações - 
