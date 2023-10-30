@@ -151,3 +151,30 @@ class PandasService:
             all_items_list.append(line.split(','))
 
         return all_items_list
+    
+    def filter_each_following(self, path):
+        all_profiles = PandasService.read_item_dataset(path + 'all_profiles.csv')
+        filtered_list = []
+
+        df = pd.read_csv(path + 'frequent.csv')
+
+        filter = df[df.columns[0]].values.tolist()
+
+        for element in all_profiles:
+            row = element.copy()
+            for profile in element:
+                if profile not in filter:
+                    row.remove(profile)
+            filtered_list.append(row)
+
+        f = open(path + 'all_filtered_profiles.csv', "w")
+
+        f.write("items")
+        for element in filtered_list:
+            f.write('\n')
+            row = ""
+            for item in element:
+                row = row + item + ','
+            f.write(row[:-1])
+
+        f.close()

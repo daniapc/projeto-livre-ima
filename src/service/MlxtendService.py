@@ -16,6 +16,34 @@ class MlxtendService:
     def print_hello(self):
         print(self.hello)
 
+    def most_frequent(self):
+        path = self.path
+
+        # print("Iniciando " + algorithm)
+
+        dataset = PandasService.read_item_dataset(path)
+
+        te = TransactionEncoder()
+        te_ary = te.fit(dataset).transform(dataset)
+        df = pd.DataFrame(te_ary, columns=te.columns_)
+
+        frequent_itemsets = hmine(df, min_support=0.01, use_colnames=True, max_len=1)
+
+        df = pd.DataFrame(frequent_itemsets)
+
+        rules_list = df.values.tolist()
+        correct_list = []
+
+        for element in rules_list:
+            i = rules_list.index(element)
+            str_element = str(element)
+            profile = str_element.split('\'')[1]
+            correct_list.append(profile)
+
+        df = pd.DataFrame(correct_list, columns = ['profile'])
+
+        df.to_csv(path.replace('all_profiles', 'frequent'), index=False)
+
     def execute_algorithm(self, algorithm, min_support):
         
         path = self.path
@@ -31,11 +59,13 @@ class MlxtendService:
         tempo_inicial = TimeService.get_current_time_in_seconds()
 
         if (algorithm == 'hmine'):
-            frequent_itemsets = hmine(df, min_support=min_support, use_colnames=True)
+            frequent_itemsets = hmine(df, min_support=min_support, use_colnames=True, max_len=2)
         elif (algorithm == 'fpgrowth'):
-            frequent_itemsets = fpgrowth(df, min_support=min_support, use_colnames=True)
+            frequent_itemsets = fpgrowth(df, min_support=min_support, use_colnames=True, max_len=2)
         else:
-            frequent_itemsets = apriori(df, min_support=min_support, use_colnames=True)
+            frequent_itemsets = apriori(df, min_support=min_support, use_colnames=True, max_len=2)
+
+        # print(frequent_itemsets)
 
         rules = association_rules(frequent_itemsets, metric="lift")
         
@@ -58,7 +88,7 @@ class MlxtendService:
         df = pd.DataFrame(correct_list, columns = columns)
 
         # saving the dataframe
-        df.to_csv(path.replace('all_profiles', algorithm), index=False)
+        df.to_csv(path.replace('all_filtered_profiles', algorithm), index=False)
 
         tempo_final = TimeService.get_current_time_in_seconds()
 
