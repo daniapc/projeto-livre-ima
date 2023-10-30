@@ -1,3 +1,4 @@
 mlxtend
 pandas
 instaloader
+plyer

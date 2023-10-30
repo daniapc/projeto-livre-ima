@@ -6,18 +6,15 @@ import sys
 import os
 
 if __name__ == "__main__":
-    if len(sys.argv) <= 2:
-        exit()
 
-    used_account = sys.argv[1]
-    used_password = sys.argv[2]
+    used_account = "augustopires.png" if len(sys.argv) <= 2 else sys.argv[1]
+    used_password = "meesqueci" if len(sys.argv) <= 2 else sys.argv[2]
 
-    instaloader_service = InstaloaderService(used_account, used_password)
-    instaloader_service.print_hello()
+
+    # instaloader_service = InstaloaderService(used_account, used_password, False)
+    # instaloader_service.print_hello()
 
     # followers_list = instaloader_service.get_followers_list(used_account, "utfpr.curitiba")
-
-    # instaloader_service.get_profile_data("dani.apc")
 
     pandas_service = PandasService()
     pandas_service.print_hello()
@@ -25,15 +22,23 @@ if __name__ == "__main__":
     path = os.getcwd() + '/data_files/followers.csv'
     # pandas_service.save_followers_list_csv(followers_list, path)
     size = pandas_service.get_df_size(path)
-    
-    pandas_service.clean_followers(path)
+
+    # pandas_service.clean_followers(path)
+
     # followers_list = pandas_service.get_df_to_list(path)
     # data_list = pandas_service.get_df_to_list(os.getcwd() + '/data_files/each_following/ulas_no_insta.csv')
 
-    pandas_service.get_following_list(instaloader_service, path)
+    # pandas_service.get_following_list(instaloader_service, path)
 
-    mlxtend_service = MlxtendService()
+    # pandas_service.collect_each_following('./data_files/each_following')
+
+    # items = PandasService.read_item_dataset('./data_files/all_profiles.csv')
+
+    mlxtend_service = MlxtendService('./data_files/all_profiles.csv')
     mlxtend_service.print_hello()
+    mlxtend_service.execute_algorithm('apriori', min_support=0.02)
+    mlxtend_service.execute_algorithm('fpgrowth', min_support=0.02)
+    mlxtend_service.execute_algorithm('hmine', min_support=0.02)
 
     from service.TimeService import TimeService
     TimeService.notifica_erro("Programa acabou")

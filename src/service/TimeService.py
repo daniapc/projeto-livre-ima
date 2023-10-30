@@ -13,6 +13,17 @@ class TimeService:
     def get_current_time_in_minutes(self):
         return datetime.datetime.now().minute
     
+    def get_current_time_in_seconds():
+        current = datetime.datetime.now()
+
+        seconds = current.microsecond/1000000
+        seconds += current.second
+        seconds += current.minute*60
+        seconds += current.hour*3600
+        seconds += current.day*86400
+
+        return seconds
+    
     def get_random_values(self, min, max):
         return random.randint(min, max)
     

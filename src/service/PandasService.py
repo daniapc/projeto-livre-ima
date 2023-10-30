@@ -101,3 +101,53 @@ class PandasService:
 
                 updated_lines[index][2] = "False"
                 self.update_df(updated_lines, columns, path)
+
+    def collect_each_following(self, folder_path):
+        all_items_list = []
+
+        csv_files = [file for file in os.listdir(folder_path) if file.endswith('.csv')]
+
+        for csv_file in csv_files:
+            file_path = os.path.join(folder_path, csv_file)
+
+            # Read the .csv file into a DataFrame
+            df = pd.read_csv(file_path)
+
+            file = []
+            values = df.values.tolist()
+
+            for row in values:
+                file.append(row[0])
+
+            all_items_list.append(file)
+
+        f = open(folder_path.replace("each_following", "all_profiles.csv"), "w")
+        filter = ['utfpr.curitiba', 'utfpr_', 'ufpr_oficial']
+
+        f.write("items")
+        for element in all_items_list:
+            f.write('\n')
+            row = ""
+            for item in element:
+                if item not in filter:
+                    row = row + item + ','
+            f.write(row[:-1])
+
+        f.close()
+
+    def read_item_dataset(path):
+        f = open(path ,"r")
+
+        f.readline()
+
+        # df = pd.read_csv(path)
+
+        # df.values.tolist()
+
+        all_items_list = []
+        all_lines = f.readlines()
+
+        for line in all_lines:
+            all_items_list.append(line.split(','))
+
+        return all_items_list

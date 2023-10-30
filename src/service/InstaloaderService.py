@@ -1,11 +1,14 @@
 import instaloader
 
 class InstaloaderService:
-    def __init__(self, used_account, used_password):
+    def __init__(self, used_account, used_password, file):
         self.hello = "Hello instaloader!"
         self.loader = instaloader.Instaloader()
-        # self.loader.login(used_account, used_password)
-        self.loader.load_session_from_file(used_account)
+
+        if file == True:
+            self.loader.load_session_from_file(used_account)
+        else:
+            self.loader.login(used_account, used_password)
 
     def print_hello(self):
         print(self.hello)
