@@ -190,17 +190,34 @@ class PandasService:
         df = pd.read_csv(path + 'perfis_utfpr.csv')
 
         selected_profiles = df[df.columns[0]].values.tolist()
+        grouped_profiles = selected_profiles.copy()
 
         for profile in selected_profiles:
+            # COLOCA ELEMENTOS QUE PERTENCEM AO GRUPO SELECIONADO
             current_group = []
             for line in all_lines:
                 if profile in line:
                     current_group.append(line[:-1])
+
+            grouped_profiles.remove(profile)
+            delete_list = []
+
+            # EXCLUI O QUE PERTENCE A LISTA
+            for element in current_group:
+                for removing in grouped_profiles:
+                    if removing in element:
+                        delete_list.append(element)
+
+            delete_list = list(dict.fromkeys(delete_list))
+            for element in delete_list:
+                current_group.remove(element)
                 
             f = open(path + '/grouping_arules/' + profile + '.csv', "w")
             f.write(header)
             for element in current_group:
                 f.write('\n')
                 f.write(element)
+
+            grouped_profiles.append(profile)
 
         f.close()

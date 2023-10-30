@@ -1,21 +1,21 @@
-Administração - admetralhas
-Arquitetura e Urbanismo - cavnautfpr
-Bacharelado em Química - aaa.maleficoz/dalputfpr
+Administração - admetralhas/caft.utfpr
+Arquitetura e Urbanismo - cavnautfpr/coarqct.utfpr/emaucais
+Bacharelado em Química - aaa.maleficoz/dalputfpr/simdaqbi
 Bacharelado em Química Ambiental - aaa.maleficoz/dalputfpr
 Comunicação Organizacional - cac.utfpr/aaadec
 Design - alguresutfpr/dadinutfpr/aaadec/cadut_utfpr
-Educação Física - matilhautfpr/edfisicautfpr
+Educação Física - matilhautfpr/edfisicautfpr/caef.utfpr
 Engenharia Ambiental e Sanitária - eas.utfprct/caabs_utfpr
 Engenharia Civil - cacarutfpr/civil_utfprct
 Engenharia de Computação - dasc.utfpr/peteco_utfpr/cdp_utfprct
 Engenharia de Controle e Automação - daacel
 Engenharia Elétrica - daacel
-Engenharia Eletrônica - caeln.utfpr/peteco_utfpr
-Engenharia Mecânica - 
+Engenharia Eletrônica - caeln.utfpr/peteco_utfpr/daeln.ct_utfpr
+Engenharia Mecânica - damec.utfpr
 Engenharia Mecatrônica - catron.utfpr
-Licenciatura em Física - aaa.maleficoz/cautecutfpr
+Licenciatura em Física - aaa.maleficoz/cautecutfpr/cantutfpr
 Licenciatura em Letras - Inglês - dalet_ct/aaadec/aaa.maleficoz
-Licenciatura em Letras - Português - dalet_ct/aaadec/aaa.maleficoz
+Licenciatura em Letras - Português - letrasportuguesutfproficialdalet_ct/aaadec/aaa.maleficoz
 Licenciatura em Matemática - aaa.maleficoz
 Licenciatura em Química - aaa.maleficoz/dalputfpr
 Sistemas de Informação - dasc.utfpr/peteco_utfpr/cdp_utfprct
