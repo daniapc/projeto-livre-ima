@@ -42,9 +42,9 @@ if __name__ == "__main__":
     # pandas_service.filter_each_following('./data_files/')
 
     ## EXECUTA CADA ALGORITMO
-    # mlxtend_service.execute_algorithm('apriori', min_support=0.02)
-    # mlxtend_service.execute_algorithm('fpgrowth', min_support=0.01)
-    # mlxtend_service.execute_algorithm('hmine', min_support=0.01)
+    mlxtend_service.execute_algorithm('apriori', min_support=0.02, min_threshold=0.01)
+    mlxtend_service.execute_algorithm('fpgrowth', min_support=0.01, min_threshold=0.01)
+    mlxtend_service.execute_algorithm('hmine', min_support=0.01, min_threshold=0.01)
 
     pandas_service.group_arules('./data_files/', 'hmine')
 

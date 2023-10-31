@@ -44,7 +44,7 @@ class MlxtendService:
 
         df.to_csv(path.replace('all_profiles', 'frequent'), index=False)
 
-    def execute_algorithm(self, algorithm, min_support):
+    def execute_algorithm(self, algorithm, min_support, min_threshold):
         
         path = self.path
 
@@ -67,7 +67,7 @@ class MlxtendService:
 
         # print(frequent_itemsets)
 
-        rules = association_rules(frequent_itemsets, metric="lift")
+        rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=min_threshold)
         
         # print(rules)
 
